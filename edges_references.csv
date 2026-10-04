@@ -1,0 +1,1303 @@
+﻿source_id,target_id,rel_type,mentions,mention_count,reference_types,via_range_only,cross_law,fallback_to_parent,method
+민법_제165조_제2항,민법_제165조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제165조_제3항,민법_제165조_제1항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제165조_제3항,민법_제165조_제2항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제170조_제2항,민법_제170조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제178조_제2항,민법_제178조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제191조_제2항,민법_제191조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제191조_제3항,민법_제191조_제1항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제191조_제3항,민법_제191조_제2항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제192조_제2항,민법_제204조,REFERENCES,제204조,1,INTERNAL,False,False,False,rule_v2
+민법_제196조_제2항,민법_제188조_제2항,REFERENCES,제188조제2항,1,INTERNAL,False,False,False,rule_v2
+민법_제196조_제2항,민법_제189조,REFERENCES,제189조,1,CHAINED,False,False,False,rule_v2
+민법_제196조_제2항,민법_제190조,REFERENCES,제190조,1,CHAINED,False,False,False,rule_v2
+민법_제196조_제2항,민법_제196조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제201조_제3항,민법_제201조_제2항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제203조_제3항,민법_제203조_제2항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제204조_제2항,민법_제204조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제204조_제3항,민법_제204조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민법_제205조_제2항,민법_제205조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제206조_제2항,민법_제205조_제3항,REFERENCES,전조제3항,1,PREVIOUS,False,False,False,rule_v2
+민법_제207조_제1항,민법_제194조,REFERENCES,제194조,1,INTERNAL,False,False,False,rule_v2
+민법_제207조_제1항,민법_제204조,REFERENCES,전3조,1,PREVIOUS,False,False,False,rule_v2
+민법_제207조_제1항,민법_제205조,REFERENCES,전3조,1,PREVIOUS,False,False,False,rule_v2
+민법_제207조_제1항,민법_제206조,REFERENCES,전3조,1,PREVIOUS,False,False,False,rule_v2
+민법_제216조_제2항,민법_제216조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제217조_제2항,민법_제217조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제218조_제2항,민법_제218조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제219조_제2항,민법_제219조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제220조_제2항,민법_제220조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제224조,민법_제222조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제224조,민법_제223조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제226조_제2항,민법_제226조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제227조_제2항,민법_제227조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제229조_제3항,민법_제229조_제1항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제229조_제3항,민법_제229조_제2항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제231조_제2항,민법_제231조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제232조,민법_제231조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제234조,민법_제231조,REFERENCES,전3조,1,PREVIOUS,False,False,False,rule_v2
+민법_제234조,민법_제232조,REFERENCES,전3조,1,PREVIOUS,False,False,False,rule_v2
+민법_제234조,민법_제233조,REFERENCES,전3조,1,PREVIOUS,False,False,False,rule_v2
+민법_제236조_제2항,민법_제236조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제237조_제2항,민법_제237조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제237조_제3항,민법_제237조_제1항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제237조_제3항,민법_제237조_제2항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제240조_제2항,민법_제240조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제242조_제2항,민법_제242조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제244조_제2항,민법_제244조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제246조_제2항,민법_제246조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제247조_제1항,민법_제245조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제247조_제1항,민법_제246조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제247조_제2항,민법_제245조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제247조_제2항,민법_제246조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제248조,민법_제245조,REFERENCES,전3조,1,PREVIOUS,False,False,False,rule_v2
+민법_제248조,민법_제246조,REFERENCES,전3조,1,PREVIOUS,False,False,False,rule_v2
+민법_제248조,민법_제247조,REFERENCES,전3조,1,PREVIOUS,False,False,False,rule_v2
+민법_제250조,민법_제249조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제255조_제1항,민법_제252조_제1항,REFERENCES,제252조제1항,1,INTERNAL,False,False,False,rule_v2
+민법_제255조_제1항,민법_제253조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제255조_제1항,민법_제254조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제255조_제2항,민법_제255조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제258조,민법_제257조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제259조_제2항,민법_제259조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제260조_제1항,민법_제256조,REFERENCES,전4조,1,PREVIOUS,False,False,False,rule_v2
+민법_제260조_제1항,민법_제257조,REFERENCES,전4조,1,PREVIOUS,False,False,False,rule_v2
+민법_제260조_제1항,민법_제258조,REFERENCES,전4조,1,PREVIOUS,False,False,False,rule_v2
+민법_제260조_제1항,민법_제259조,REFERENCES,전4조,1,PREVIOUS,False,False,False,rule_v2
+민법_제260조_제2항,민법_제260조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제261조,민법_제256조,REFERENCES,전5조,1,PREVIOUS,False,False,False,rule_v2
+민법_제261조,민법_제257조,REFERENCES,전5조,1,PREVIOUS,False,False,False,rule_v2
+민법_제261조,민법_제258조,REFERENCES,전5조,1,PREVIOUS,False,False,False,rule_v2
+민법_제261조,민법_제259조,REFERENCES,전5조,1,PREVIOUS,False,False,False,rule_v2
+민법_제261조,민법_제260조,REFERENCES,전5조,1,PREVIOUS,False,False,False,rule_v2
+민법_제266조_제2항,민법_제266조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제268조_제2항,민법_제268조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제268조_제3항,민법_제215조,REFERENCES,제215조,1,INTERNAL,False,False,False,rule_v2
+민법_제268조_제3항,민법_제239조,REFERENCES,제239조,1,CHAINED,False,False,False,rule_v2
+민법_제268조_제3항,민법_제268조_제1항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제268조_제3항,민법_제268조_제2항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제271조_제2항,민법_제271조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제271조_제2항,민법_제272조,REFERENCES,다음 3조,1,FOLLOWING,False,False,False,rule_v2
+민법_제271조_제2항,민법_제273조,REFERENCES,다음 3조,1,FOLLOWING,False,False,False,rule_v2
+민법_제271조_제2항,민법_제274조,REFERENCES,다음 3조,1,FOLLOWING,False,False,False,rule_v2
+민법_제274조_제2항,민법_제274조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제275조_제2항,민법_제276조,REFERENCES,다음 2조,1,FOLLOWING,False,False,False,rule_v2
+민법_제275조_제2항,민법_제277조,REFERENCES,다음 2조,1,FOLLOWING,False,False,False,rule_v2
+민법_제280조_제2항,민법_제280조_제1항,REFERENCES,전항,2,PREVIOUS,False,False,False,rule_v2
+민법_제281조_제1항,민법_제280조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제281조_제2항,민법_제280조_제1항_제2호,REFERENCES,전조제2호,1,PREVIOUS,False,False,False,rule_v2
+민법_제283조_제2항,민법_제283조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제284조,민법_제280조,REFERENCES,제280조,1,INTERNAL,False,False,False,rule_v2
+민법_제285조_제2항,민법_제285조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제288조,민법_제287조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제289조,민법_제280조,REFERENCES,제280조 내지 제287조,1,RANGE,True,False,False,rule_v2
+민법_제289조,민법_제281조,REFERENCES,제280조 내지 제287조,1,RANGE,True,False,False,rule_v2
+민법_제289조,민법_제282조,REFERENCES,제280조 내지 제287조,1,RANGE,True,False,False,rule_v2
+민법_제289조,민법_제283조,REFERENCES,제280조 내지 제287조,1,RANGE,True,False,False,rule_v2
+민법_제289조,민법_제284조,REFERENCES,제280조 내지 제287조,1,RANGE,True,False,False,rule_v2
+민법_제289조,민법_제285조,REFERENCES,제280조 내지 제287조,1,RANGE,True,False,False,rule_v2
+민법_제289조,민법_제286조,REFERENCES,제280조 내지 제287조,1,RANGE,True,False,False,rule_v2
+민법_제289조,민법_제287조,REFERENCES,제280조 내지 제287조,1,RANGE,True,False,False,rule_v2
+민법_제289조의2_제2항,민법_제289조의2_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민법_제290조_제1항,민법_제213조,REFERENCES,제213조,1,INTERNAL,False,False,False,rule_v2
+민법_제290조_제1항,민법_제214조,REFERENCES,제214조,1,CHAINED,False,False,False,rule_v2
+민법_제290조_제1항,민법_제216조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제217조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제218조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제219조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제220조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제221조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제222조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제223조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제224조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제225조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제226조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제227조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제228조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제229조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제230조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제231조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제232조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제233조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제234조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제235조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제236조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제237조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제238조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제239조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제240조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제241조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제242조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제243조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제1항,민법_제244조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제2항,민법_제280조,REFERENCES,제280조 내지 제289조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제2항,민법_제281조,REFERENCES,제280조 내지 제289조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제2항,민법_제282조,REFERENCES,제280조 내지 제289조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제2항,민법_제283조,REFERENCES,제280조 내지 제289조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제2항,민법_제284조,REFERENCES,제280조 내지 제289조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제2항,민법_제285조,REFERENCES,제280조 내지 제289조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제2항,민법_제286조,REFERENCES,제280조 내지 제289조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제2항,민법_제287조,REFERENCES,제280조 내지 제289조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제2항,민법_제288조,REFERENCES,제280조 내지 제289조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제2항,민법_제289조,REFERENCES,제280조 내지 제289조,1,RANGE,True,False,False,rule_v2
+민법_제290조_제2항,민법_제289조의2,REFERENCES,제289조의2,1,INTERNAL,False,False,False,rule_v2
+민법_제290조_제2항,민법_제290조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민법_제294조,민법_제245조,REFERENCES,제245조,1,INTERNAL,False,False,False,rule_v2
+민법_제299조,민법_제298조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제300조_제2항,민법_제300조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제301조,민법_제214조,REFERENCES,제214조,1,INTERNAL,False,False,False,rule_v2
+민법_제304조_제2항,민법_제304조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제305조_제2항,민법_제305조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제310조_제2항,민법_제310조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제311조_제2항,민법_제311조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제314조_제2항,민법_제314조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제315조_제2항,민법_제315조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제316조_제2항,민법_제316조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제319조,민법_제213조,REFERENCES,제213조,1,INTERNAL,False,False,False,rule_v2
+민법_제319조,민법_제214조,REFERENCES,제214조,1,CHAINED,False,False,False,rule_v2
+민법_제319조,민법_제216조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제217조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제218조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제219조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제220조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제221조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제222조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제223조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제224조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제225조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제226조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제227조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제228조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제229조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제230조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제231조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제232조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제233조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제234조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제235조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제236조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제237조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제238조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제239조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제240조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제241조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제242조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제243조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제319조,민법_제244조,REFERENCES,제216조 내지 제244조,1,RANGE,True,False,False,rule_v2
+민법_제320조_제2항,민법_제320조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제324조_제3항,민법_제324조_제1항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제324조_제3항,민법_제324조_제2항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제335조,민법_제334조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제337조_제1항,민법_제336조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제337조_제2항,민법_제337조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제340조_제2항,민법_제340조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제343조,민법_제249조,REFERENCES,제249조 내지 제251조,1,RANGE,True,False,False,rule_v2
+민법_제343조,민법_제250조,REFERENCES,제249조 내지 제251조,1,RANGE,True,False,False,rule_v2
+민법_제343조,민법_제251조,REFERENCES,제249조 내지 제251조,1,RANGE,True,False,False,rule_v2
+민법_제343조,민법_제321조,REFERENCES,제321조 내지 제325조,1,RANGE,True,False,False,rule_v2
+민법_제343조,민법_제322조,REFERENCES,제321조 내지 제325조,1,RANGE,True,False,False,rule_v2
+민법_제343조,민법_제323조,REFERENCES,제321조 내지 제325조,1,RANGE,True,False,False,rule_v2
+민법_제343조,민법_제324조,REFERENCES,제321조 내지 제325조,1,RANGE,True,False,False,rule_v2
+민법_제343조,민법_제325조,REFERENCES,제321조 내지 제325조,1,RANGE,True,False,False,rule_v2
+민법_제349조_제1항,민법_제450조,REFERENCES,제450조,1,INTERNAL,False,False,False,rule_v2
+민법_제349조_제2항,민법_제349조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제349조_제2항,민법_제451조,REFERENCES,제451조,1,INTERNAL,False,False,False,rule_v2
+민법_제353조_제3항,민법_제353조_제2항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제354조,민법_제353조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제357조_제2항,민법_제357조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제367조,민법_제203조_제1항,REFERENCES,제203조제1항,1,INTERNAL,False,False,False,rule_v2
+민법_제367조,민법_제203조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+민법_제368조_제2항,민법_제368조_제1항,REFERENCES,전항,2,PREVIOUS,False,False,False,rule_v2
+민법_제370조,민법_제214조,REFERENCES,제214조,1,INTERNAL,False,False,False,rule_v2
+민법_제370조,민법_제321조,REFERENCES,제321조,1,CHAINED,False,False,False,rule_v2
+민법_제370조,민법_제333조,REFERENCES,제333조,1,CHAINED,False,False,False,rule_v2
+민법_제370조,민법_제340조,REFERENCES,제340조,1,CHAINED,False,False,False,rule_v2
+민법_제370조,민법_제341조,REFERENCES,제341조,1,CHAINED,False,False,False,rule_v2
+민법_제370조,민법_제342조,REFERENCES,제342조,1,CHAINED,False,False,False,rule_v2
+민법_제404조_제2항,민법_제404조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제405조_제1항,민법_제404조_제1항,REFERENCES,전조제1항,1,PREVIOUS,False,False,False,rule_v2
+민법_제405조_제2항,민법_제405조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제406조_제2항,민법_제406조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제407조,민법_제406조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제410조_제1항,민법_제409조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제411조,민법_제410조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제411조,민법_제413조,REFERENCES,제413조 내지 제415조,1,RANGE,True,False,False,rule_v2
+민법_제411조,민법_제414조,REFERENCES,제413조 내지 제415조,1,RANGE,True,False,False,rule_v2
+민법_제411조,민법_제415조,REFERENCES,제413조 내지 제415조,1,RANGE,True,False,False,rule_v2
+민법_제411조,민법_제422조,REFERENCES,제422조,1,CHAINED,False,False,False,rule_v2
+민법_제411조,민법_제424조,REFERENCES,제424조 내지 제427조,1,RANGE,True,False,False,rule_v2
+민법_제411조,민법_제425조,REFERENCES,제424조 내지 제427조,1,RANGE,True,False,False,rule_v2
+민법_제411조,민법_제426조,REFERENCES,제424조 내지 제427조,1,RANGE,True,False,False,rule_v2
+민법_제411조,민법_제427조,REFERENCES,제424조 내지 제427조,1,RANGE,True,False,False,rule_v2
+민법_제423조,민법_제416조,REFERENCES,전7조,1,PREVIOUS,False,False,False,rule_v2
+민법_제423조,민법_제417조,REFERENCES,전7조,1,PREVIOUS,False,False,False,rule_v2
+민법_제423조,민법_제418조,REFERENCES,전7조,1,PREVIOUS,False,False,False,rule_v2
+민법_제423조,민법_제419조,REFERENCES,전7조,1,PREVIOUS,False,False,False,rule_v2
+민법_제423조,민법_제420조,REFERENCES,전7조,1,PREVIOUS,False,False,False,rule_v2
+민법_제423조,민법_제421조,REFERENCES,전7조,1,PREVIOUS,False,False,False,rule_v2
+민법_제423조,민법_제422조,REFERENCES,전7조,1,PREVIOUS,False,False,False,rule_v2
+민법_제425조_제2항,민법_제425조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제427조_제2항,민법_제427조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제428조의2_제2항,민법_제428조의2_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민법_제428조의2_제3항,민법_제428조의2_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민법_제428조의2_제3항,민법_제428조의2_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+민법_제428조의3_제2항,민법_제428조의2_제1항,REFERENCES,제428조의2제1항,1,INTERNAL,False,False,False,rule_v2
+민법_제428조의3_제2항,민법_제428조의3_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민법_제431조_제3항,민법_제431조_제1항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제431조_제3항,민법_제431조_제2항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제436조의2_제4항,민법_제436조의2_제1항,REFERENCES,제1항부터 제3항까지,1,RANGE,True,False,False,rule_v2
+민법_제436조의2_제4항,민법_제436조의2_제2항,REFERENCES,제1항부터 제3항까지,1,RANGE,True,False,False,rule_v2
+민법_제436조의2_제4항,민법_제436조의2_제3항,REFERENCES,제1항부터 제3항까지,1,RANGE,True,False,False,rule_v2
+민법_제438조,민법_제437조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제439조,민법_제408조,REFERENCES,제408조,1,INTERNAL,False,False,False,rule_v2
+민법_제441조_제2항,민법_제425조_제2항,REFERENCES,제425조제2항,1,INTERNAL,False,False,False,rule_v2
+민법_제441조_제2항,민법_제441조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제442조_제2항,민법_제442조_제1항_제4호,REFERENCES,전항제4호,1,PREVIOUS,False,False,False,rule_v2
+민법_제443조,민법_제442조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제444조_제3항,민법_제444조_제2항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제448조_제1항,민법_제444조,REFERENCES,제444조,1,INTERNAL,False,False,False,rule_v2
+민법_제448조_제2항,민법_제425조,REFERENCES,제425조 내지 제427조,1,RANGE,True,False,False,rule_v2
+민법_제448조_제2항,민법_제426조,REFERENCES,제425조 내지 제427조,1,RANGE,True,False,False,rule_v2
+민법_제448조_제2항,민법_제427조,REFERENCES,제425조 내지 제427조,1,RANGE,True,False,False,rule_v2
+민법_제450조_제2항,민법_제450조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제451조_제1항,민법_제450조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제452조_제2항,민법_제452조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제455조_제1항,민법_제454조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제465조_제1항,민법_제463조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제465조_제1항,민법_제464조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제465조_제2항,민법_제465조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제467조_제2항,민법_제467조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제472조,민법_제470조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제472조,민법_제471조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제476조_제2항,민법_제476조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제476조_제3항,민법_제476조_제1항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제476조_제3항,민법_제476조_제2항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제478조,민법_제476조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제478조,민법_제477조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제479조_제2항,민법_제477조,REFERENCES,제477조,1,INTERNAL,False,False,False,rule_v2
+민법_제479조_제2항,민법_제479조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제480조_제2항,민법_제450조,REFERENCES,제450조 내지 제452조,1,RANGE,True,False,False,rule_v2
+민법_제480조_제2항,민법_제451조,REFERENCES,제450조 내지 제452조,1,RANGE,True,False,False,rule_v2
+민법_제480조_제2항,민법_제452조,REFERENCES,제450조 내지 제452조,1,RANGE,True,False,False,rule_v2
+민법_제480조_제2항,민법_제480조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제482조_제1항,민법_제480조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제482조_제1항,민법_제481조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제482조_제2항,민법_제482조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제482조_제2항_제5호,민법_제482조_제2항_제1호,REFERENCES,제1호,1,INTERNAL,False,False,False,rule_v2
+민법_제483조_제2항,민법_제483조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제485조,민법_제481조,REFERENCES,제481조,1,INTERNAL,False,False,False,rule_v2
+민법_제486조,민법_제480조,REFERENCES,전6조,1,PREVIOUS,False,False,False,rule_v2
+민법_제486조,민법_제481조,REFERENCES,전6조,1,PREVIOUS,False,False,False,rule_v2
+민법_제486조,민법_제482조,REFERENCES,전6조,1,PREVIOUS,False,False,False,rule_v2
+민법_제486조,민법_제483조,REFERENCES,전6조,1,PREVIOUS,False,False,False,rule_v2
+민법_제486조,민법_제484조,REFERENCES,전6조,1,PREVIOUS,False,False,False,rule_v2
+민법_제486조,민법_제485조,REFERENCES,전6조,1,PREVIOUS,False,False,False,rule_v2
+민법_제489조_제2항,민법_제489조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제536조_제2항,민법_제536조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제538조_제2항,민법_제538조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제539조_제2항,민법_제539조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제540조,민법_제539조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제541조,민법_제539조,REFERENCES,제539조,1,INTERNAL,False,False,False,rule_v2
+민법_제542조,민법_제539조,REFERENCES,제539조,1,INTERNAL,False,False,False,rule_v2
+민법_제543조_제2항,민법_제543조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제545조,민법_제544조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제547조_제2항,민법_제547조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제548조_제2항,민법_제548조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제549조,민법_제536조,REFERENCES,제536조,1,INTERNAL,False,False,False,rule_v2
+민법_제549조,민법_제548조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제552조_제2항,민법_제552조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제568조_제2항,민법_제568조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제570조,민법_제569조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제571조_제2항,민법_제571조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제572조_제2항,민법_제572조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제573조,민법_제572조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제574조,민법_제572조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제574조,민법_제573조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제575조_제2항,민법_제575조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제575조_제3항,민법_제575조_제1항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제575조_제3항,민법_제575조_제2항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제576조_제2항,민법_제576조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제576조_제3항,민법_제576조_제1항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제576조_제3항,민법_제576조_제2항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제577조,민법_제576조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제578조_제1항,민법_제570조,REFERENCES,전8조,1,PREVIOUS,False,False,False,rule_v2
+민법_제578조_제1항,민법_제571조,REFERENCES,전8조,1,PREVIOUS,False,False,False,rule_v2
+민법_제578조_제1항,민법_제572조,REFERENCES,전8조,1,PREVIOUS,False,False,False,rule_v2
+민법_제578조_제1항,민법_제573조,REFERENCES,전8조,1,PREVIOUS,False,False,False,rule_v2
+민법_제578조_제1항,민법_제574조,REFERENCES,전8조,1,PREVIOUS,False,False,False,rule_v2
+민법_제578조_제1항,민법_제575조,REFERENCES,전8조,1,PREVIOUS,False,False,False,rule_v2
+민법_제578조_제1항,민법_제576조,REFERENCES,전8조,1,PREVIOUS,False,False,False,rule_v2
+민법_제578조_제1항,민법_제577조,REFERENCES,전8조,1,PREVIOUS,False,False,False,rule_v2
+민법_제578조_제2항,민법_제578조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제578조_제3항,민법_제578조_제1항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제578조_제3항,민법_제578조_제2항,REFERENCES,전2항,1,PREVIOUS,False,False,False,rule_v2
+민법_제580조_제1항,민법_제575조_제1항,REFERENCES,제575조제1항,1,INTERNAL,False,False,False,rule_v2
+민법_제580조_제2항,민법_제580조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제581조_제1항,민법_제580조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제581조_제2항,민법_제581조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제582조,민법_제580조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제582조,민법_제581조,REFERENCES,전2조,1,PREVIOUS,False,False,False,rule_v2
+민법_제583조,민법_제536조,REFERENCES,제536조,1,INTERNAL,False,False,False,rule_v2
+민법_제583조,민법_제572조,REFERENCES,제572조 내지 제575조,1,RANGE,True,False,False,rule_v2
+민법_제583조,민법_제573조,REFERENCES,제572조 내지 제575조,1,RANGE,True,False,False,rule_v2
+민법_제583조,민법_제574조,REFERENCES,제572조 내지 제575조,1,RANGE,True,False,False,rule_v2
+민법_제583조,민법_제575조,REFERENCES,제572조 내지 제575조,1,RANGE,True,False,False,rule_v2
+민법_제583조,민법_제580조,REFERENCES,제580조,1,CHAINED,False,False,False,rule_v2
+민법_제583조,민법_제581조,REFERENCES,제581조,1,CHAINED,False,False,False,rule_v2
+민법_제584조,민법_제569조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제570조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제571조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제572조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제573조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제574조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제575조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제576조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제577조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제578조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제579조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제580조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제581조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제582조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제584조,민법_제583조,REFERENCES,전15조,1,PREVIOUS,False,False,False,rule_v2
+민법_제589조,민법_제588조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제620조,민법_제619조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제622조_제2항,민법_제622조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제627조_제2항,민법_제627조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제629조_제2항,민법_제629조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제630조_제2항,민법_제630조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제632조,민법_제629조,REFERENCES,전3조,1,PREVIOUS,False,False,False,rule_v2
+민법_제632조,민법_제630조,REFERENCES,전3조,1,PREVIOUS,False,False,False,rule_v2
+민법_제632조,민법_제631조,REFERENCES,전3조,1,PREVIOUS,False,False,False,rule_v2
+민법_제635조_제2항,민법_제635조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제636조,민법_제635조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제637조_제1항,민법_제635조,REFERENCES,제635조,1,INTERNAL,False,False,False,rule_v2
+민법_제637조_제2항,민법_제637조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제638조_제2항,민법_제635조_제2항,REFERENCES,제635조제2항,1,INTERNAL,False,False,False,rule_v2
+민법_제638조_제2항,민법_제638조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제639조_제1항,민법_제635조,REFERENCES,제635조,1,INTERNAL,False,False,False,rule_v2
+민법_제639조_제2항,민법_제639조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제641조,민법_제640조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제642조,민법_제288조,REFERENCES,제288조,1,INTERNAL,False,False,False,rule_v2
+민법_제642조,민법_제641조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제643조,민법_제283조,REFERENCES,제283조,1,INTERNAL,False,False,False,rule_v2
+민법_제644조_제2항,민법_제283조_제2항,REFERENCES,제283조제2항,1,INTERNAL,False,False,False,rule_v2
+민법_제644조_제2항,민법_제644조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제645조,민법_제644조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민법_제646조_제2항,민법_제646조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제647조_제2항,민법_제647조_제1항,REFERENCES,전항,1,PREVIOUS,False,False,False,rule_v2
+민법_제652조,민법_제627조,REFERENCES,제627조,1,INTERNAL,False,False,False,rule_v2
+민법_제652조,민법_제628조,REFERENCES,제628조,1,CHAINED,False,False,False,rule_v2
+민법_제652조,민법_제631조,REFERENCES,제631조,1,CHAINED,False,False,False,rule_v2
+민법_제652조,민법_제635조,REFERENCES,제635조,1,CHAINED,False,False,False,rule_v2
+민법_제652조,민법_제638조,REFERENCES,제638조,1,CHAINED,False,False,False,rule_v2
+민법_제652조,민법_제640조,REFERENCES,제640조,1,CHAINED,False,False,False,rule_v2
+민법_제652조,민법_제641조,REFERENCES,제641조,1,CHAINED,False,False,False,rule_v2
+민법_제652조,민법_제643조,REFERENCES,제643조 내지 제647조,1,RANGE,True,False,False,rule_v2
+민법_제652조,민법_제644조,REFERENCES,제643조 내지 제647조,1,RANGE,True,False,False,rule_v2
+민법_제652조,민법_제645조,REFERENCES,제643조 내지 제647조,1,RANGE,True,False,False,rule_v2
+민법_제652조,민법_제646조,REFERENCES,제643조 내지 제647조,1,RANGE,True,False,False,rule_v2
+민법_제652조,민법_제647조,REFERENCES,제643조 내지 제647조,1,RANGE,True,False,False,rule_v2
+민법_제653조,민법_제628조,REFERENCES,제628조,1,INTERNAL,False,False,False,rule_v2
+민법_제653조,민법_제638조,REFERENCES,제638조,1,CHAINED,False,False,False,rule_v2
+민법_제653조,민법_제640조,REFERENCES,제640조,1,CHAINED,False,False,False,rule_v2
+민법_제653조,민법_제646조,REFERENCES,제646조 내지 제648조,1,RANGE,True,False,False,rule_v2
+민법_제653조,민법_제647조,REFERENCES,제646조 내지 제648조,1,RANGE,True,False,False,rule_v2
+민법_제653조,민법_제648조,REFERENCES,제646조 내지 제648조,1,RANGE,True,False,False,rule_v2
+민법_제653조,민법_제650조,REFERENCES,제650조,1,CHAINED,False,False,False,rule_v2
+민법_제653조,민법_제652조,REFERENCES,전조,1,PREVIOUS,False,False,False,rule_v2
+민사집행규칙_제110조,민사집행법_제80조,REFERENCES,법 제80조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제111조_제1항,민사집행법_제83조_제1항,REFERENCES,법 제83조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제111조_제2항,민사집행규칙_제111조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제111조_제4항,민사집행규칙_제111조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제122조,민사집행규칙_제56조_제1호,REFERENCES,제56조제1호,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제122조,민사집행규칙_제56조_제3호,REFERENCES,제3호,1,CHAINED,False,False,False,rule_v2
+민사집행규칙_제122조,민사집행법_제106조_제2호,REFERENCES,법 제106조제2호,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제122조,민사집행법_제106조_제4호,REFERENCES,제4호 내지 제7호,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제122조,민사집행법_제106조_제5호,REFERENCES,제4호 내지 제7호,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제122조,민사집행법_제106조_제6호,REFERENCES,제4호 내지 제7호,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제122조,민사집행법_제106조_제7호,REFERENCES,제4호 내지 제7호,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제122조,민사집행법_제106조_제9호,REFERENCES,제9호,1,CHAINED,False,True,False,rule_v2
+민사집행규칙_제123조_제2항,민사집행규칙_제123조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제123조_제3항,민사집행규칙_제123조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제123조_제4항,민사집행규칙_제123조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제123조_제5항,민사집행규칙_제123조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제123조_제6항,민사집행규칙_제123조_제5항,REFERENCES,제5항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제123조_제7항,민사집행규칙_제123조_제6항,REFERENCES,제6항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제123조_제8항,민사집행규칙_제123조_제5항,REFERENCES,제5항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제123조_제8항,민사집행법_제116조_제2항,REFERENCES,법 제116조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제124조_제2항,민사집행규칙_제124조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제124조_제3항,민사집행법_제109조,REFERENCES,법 제109조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제124조_제3항,민사집행법_제113조,REFERENCES,법 제113조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제124조_제3항,민사집행법_제126조_제1항,REFERENCES,법 제126조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제124조_제3항,민사집행법_제126조_제2항,REFERENCES,제2항,1,CHAINED,False,True,False,rule_v2
+민사집행규칙_제124조_제3항,민사집행법_제128조_제2항,REFERENCES,법 제128조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행규칙_제44조,REFERENCES,제43조 내지 제46조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행규칙_제46조,REFERENCES,제43조 내지 제46조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행규칙_제51조_제1항_제4호,REFERENCES,제51조제1항제4호 내지 제6호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행규칙_제51조_제1항_제5호,REFERENCES,제51조제1항제4호 내지 제6호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행규칙_제51조_제1항_제6호,REFERENCES,제51조제1항제4호 내지 제6호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행규칙_제51조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행규칙_제56조_제2호,REFERENCES,제56조제2호,1,CHAINED,False,False,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행법_제103조_제2항,REFERENCES,법 제103조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행법_제105조,REFERENCES,법 제105조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행법_제136조,REFERENCES,법 제136조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행법_제79조,REFERENCES,법 제79조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행법_제81조,REFERENCES,법 제81조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행법_제83조_제2항,REFERENCES,법 제83조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행법_제83조_제3항,REFERENCES,제3항,1,CHAINED,False,True,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행법_제85조,REFERENCES,법 제85조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제128조_제2항,민사집행법_제91조_제5항,REFERENCES,법 제91조제5항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제147조_제3항,민사집행법_제108조,REFERENCES,법 제108조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제147조_제4항,민사집행규칙_제57조_제1항,REFERENCES,제57조제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제156조_제1항_제3호,민사집행법_제266조_제1항_제5호,REFERENCES,법 제266조제1항제5호,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제156조_제1항_제3호,민사집행법_제272조,REFERENCES,법 제272조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제175조_제2항,민사집행규칙_제175조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제175조_제3항,민사집행규칙_제175조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제175조_제4항,민사집행규칙_제175조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제175조_제5항,민사집행규칙_제175조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제175조_제5항,민사집행법_제141조,REFERENCES,법 제141조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제175조_제5항,민사집행법_제144조,REFERENCES,법 제144조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제175조_제5항,민사집행법_제94조,REFERENCES,법 제94조 내지 법 제96조,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제175조_제5항,민사집행법_제95조,REFERENCES,법 제94조 내지 법 제96조,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제175조_제5항,민사집행법_제96조,REFERENCES,법 제94조 내지 법 제96조,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제182조_제1항,민사집행규칙_제48조,REFERENCES,제48조,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제182조_제1항,민사집행법_제149조,REFERENCES,법 제149조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제182조_제1항,민사집행법_제150조,REFERENCES,법 제150조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제182조의9_제1항,민사집행규칙_제48조,REFERENCES,제48조,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제182조의9_제1항,민사집행법_제149조,REFERENCES,법 제149조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제182조의9_제1항,민사집행법_제150조,REFERENCES,법 제150조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제185조_제1항,민사집행규칙_제82조,REFERENCES,제82조,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제185조_제1항,민사집행법_제145조_제2항,REFERENCES,법 제145조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제192조,민사집행법_제273조,REFERENCES,법 제273조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제192조_제1호,민사집행법_제273조,REFERENCES,법 제273조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제42조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제44조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제46조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제48조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제49조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제51조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제52조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제53조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제54조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제56조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제57조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제58조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제66조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제67조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제75조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제76조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제77조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제78조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제78조의2,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제79조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행규칙_제82조,REFERENCES,제40조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제194조,민사집행법_제266조_제1항_제4호,REFERENCES,법 제266조제1항제4호,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제200조_제1항,민사집행규칙_제192조,REFERENCES,제192조,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제200조_제1항,민사집행법_제273조_제1항,REFERENCES,법 제273조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제200조_제1항,민사집행법_제273조_제2항,REFERENCES,제2항,1,CHAINED,False,True,False,rule_v2
+민사집행규칙_제200조_제2항,민사집행규칙_제175조,REFERENCES,제160조 내지 제175조,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제200조_제2항,민사집행규칙_제200조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제200조_제2항,민사집행법_제264조,REFERENCES,법 제264조 내지 법 제267조,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제200조_제2항,민사집행법_제265조,REFERENCES,법 제264조 내지 법 제267조,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제200조_제2항,민사집행법_제266조,REFERENCES,법 제264조 내지 법 제267조,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제200조_제2항,민사집행법_제267조,REFERENCES,법 제264조 내지 법 제267조,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제213조_제2항,민사집행규칙_제175조_제1항,REFERENCES,제175조제1항,1,CHAINED,False,False,False,rule_v2
+민사집행규칙_제213조_제2항,민사집행규칙_제175조_제3항,REFERENCES,제3항,1,CHAINED,False,False,False,rule_v2
+민사집행규칙_제213조_제2항,민사집행법_제141조,REFERENCES,법 제141조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제213조_제2항,민사집행법_제94조,REFERENCES,법 제94조 내지 법 제96조,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제213조_제2항,민사집행법_제95조,REFERENCES,법 제94조 내지 법 제96조,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제213조_제2항,민사집행법_제96조,REFERENCES,법 제94조 내지 법 제96조,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제24조_제2항,민사집행규칙_제24조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제28조_제2항,민사집행법_제246조_제1항_제1호,REFERENCES,법 제246조제1항제1호 내지 제3호,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제28조_제2항,민사집행법_제246조_제1항_제2호,REFERENCES,법 제246조제1항제1호 내지 제3호,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제28조_제2항,민사집행법_제246조_제1항_제3호,REFERENCES,법 제246조제1항제1호 내지 제3호,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제28조_제2항_제10호,민사집행규칙_제28조_제2항_제9호,REFERENCES,제9호,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제28조_제2항_제17호,민사집행규칙_제28조_제2항_제11호,REFERENCES,제11호 내지 제16호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제2항_제17호,민사집행규칙_제28조_제2항_제12호,REFERENCES,제11호 내지 제16호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제2항_제17호,민사집행규칙_제28조_제2항_제13호,REFERENCES,제11호 내지 제16호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제2항_제17호,민사집행규칙_제28조_제2항_제14호,REFERENCES,제11호 내지 제16호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제2항_제17호,민사집행규칙_제28조_제2항_제15호,REFERENCES,제11호 내지 제16호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제2항_제17호,민사집행규칙_제28조_제2항_제16호,REFERENCES,제11호 내지 제16호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제2항_제18호,민사집행규칙_제28조_제2항_제11호,REFERENCES,제11호 내지 제16호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제2항_제18호,민사집행규칙_제28조_제2항_제12호,REFERENCES,제11호 내지 제16호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제2항_제18호,민사집행규칙_제28조_제2항_제13호,REFERENCES,제11호 내지 제16호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제2항_제18호,민사집행규칙_제28조_제2항_제14호,REFERENCES,제11호 내지 제16호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제2항_제18호,민사집행규칙_제28조_제2항_제15호,REFERENCES,제11호 내지 제16호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제2항_제18호,민사집행규칙_제28조_제2항_제16호,REFERENCES,제11호 내지 제16호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제3항,민사집행규칙_제28조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제28조_제3항_제1호,민사집행규칙_제28조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제28조_제3항_제2호,민사집행규칙_제28조_제2항_제11호,REFERENCES,제11호 내지 제19호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제3항_제2호,민사집행규칙_제28조_제2항_제12호,REFERENCES,제11호 내지 제19호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제3항_제2호,민사집행규칙_제28조_제2항_제13호,REFERENCES,제11호 내지 제19호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제3항_제2호,민사집행규칙_제28조_제2항_제14호,REFERENCES,제11호 내지 제19호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제3항_제2호,민사집행규칙_제28조_제2항_제15호,REFERENCES,제11호 내지 제19호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제3항_제2호,민사집행규칙_제28조_제2항_제16호,REFERENCES,제11호 내지 제19호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제3항_제2호,민사집행규칙_제28조_제2항_제17호,REFERENCES,제11호 내지 제19호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제3항_제2호,민사집행규칙_제28조_제2항_제18호,REFERENCES,제11호 내지 제19호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제3항_제2호,민사집행규칙_제28조_제2항_제19호,REFERENCES,제11호 내지 제19호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제3항_제2호,민사집행규칙_제28조_제2항_제8호,REFERENCES,제2항제8호,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제28조_제3항_제4호,민사집행규칙_제28조_제2항_제1호,REFERENCES,제2항제1호 내지 제4호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제3항_제4호,민사집행규칙_제28조_제2항_제2호,REFERENCES,제2항제1호 내지 제4호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제3항_제4호,민사집행규칙_제28조_제2항_제3호,REFERENCES,제2항제1호 내지 제4호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제28조_제3항_제4호,민사집행규칙_제28조_제2항_제4호,REFERENCES,제2항제1호 내지 제4호,1,RANGE,True,False,False,rule_v2
+민사집행규칙_제42조_제1항,민사집행법_제81조_제3항,REFERENCES,법 제81조제3항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제42조_제1항,민사집행법_제81조_제4항,REFERENCES,제4항,1,CHAINED,False,True,False,rule_v2
+민사집행규칙_제42조_제2항,민사집행규칙_제42조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제42조_제2항,민사집행법_제81조_제1항_제2호,REFERENCES,법 제81조제1항제2호,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제44조_제2항,민사집행규칙_제44조_제1항,REFERENCES,제1항,2,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제44조_제2항,민사집행법_제91조_제2항,REFERENCES,법 제91조제2항 내지 제4항,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제44조_제2항,민사집행법_제91조_제3항,REFERENCES,법 제91조제2항 내지 제4항,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제44조_제2항,민사집행법_제91조_제4항,REFERENCES,법 제91조제2항 내지 제4항,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제44조_제3항,민사집행규칙_제44조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제44조_제3항,민사집행규칙_제44조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+민사집행규칙_제44조_제3항,민사집행법_제91조_제2항,REFERENCES,법 제91조제2항 내지 제4항,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제44조_제3항,민사집행법_제91조_제3항,REFERENCES,법 제91조제2항 내지 제4항,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제44조_제3항,민사집행법_제91조_제4항,REFERENCES,법 제91조제2항 내지 제4항,1,RANGE,True,True,False,rule_v2
+민사집행규칙_제44조_제4항,민사집행규칙_제44조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제44조_제4항,민사집행규칙_제44조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+민사집행규칙_제44조_제5항,민사집행규칙_제44조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제44조_제5항,민사집행규칙_제44조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+민사집행규칙_제44조_제5항,민사집행규칙_제44조_제4항,REFERENCES,제4항,1,CHAINED,False,False,False,rule_v2
+민사집행규칙_제44조_제6항,민사집행규칙_제44조_제4항,REFERENCES,제4항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제44조_제7항,민사집행규칙_제44조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제44조_제8항,민사집행규칙_제44조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제46조_제1항,민사집행법_제85조,REFERENCES,법 제85조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제46조_제1항_제4호,민사집행법_제85조_제1항,REFERENCES,법 제85조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제46조_제3항,민사집행법_제85조,REFERENCES,법 제85조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제48조_제1항,민사집행법_제88조_제1항,REFERENCES,법 제88조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제48조_제2항,민사집행규칙_제48조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제49조_제1항,민사집행법_제105조_제1항_제3호,REFERENCES,법 제105조제1항제3호,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제49조_제1항,민사집행법_제87조_제1항,REFERENCES,법 제87조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제49조_제1항,민사집행법_제93조_제2항,REFERENCES,법 제93조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제49조_제2항,민사집행법_제105조_제1항_제3호,REFERENCES,법 제105조제1항제3호,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제49조_제2항,민사집행법_제87조_제1항,REFERENCES,법 제87조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제49조_제2항,민사집행법_제93조_제3항,REFERENCES,법 제93조제3항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제51조_제1항,민사집행법_제97조,REFERENCES,법 제97조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제52조,민사집행법_제101조_제4항,REFERENCES,법 제101조제4항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제52조,민사집행법_제124조_제2항,REFERENCES,법 제124조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제53조,민사집행법_제102조_제1항,REFERENCES,법 제102조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제54조_제1항,민사집행법_제102조_제2항,REFERENCES,법 제102조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제54조_제2항,민사집행규칙_제54조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제56조,민사집행법_제106조,REFERENCES,법 제106조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제56조_제1호,민사집행법_제98조,REFERENCES,법 제98조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제56조_제3호,민사집행법_제113조,REFERENCES,법 제113조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제57조_제2항,민사집행법_제108조,REFERENCES,법 제108조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제58조,민사집행규칙_제46조_제3항,REFERENCES,제46조제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제58조,민사집행법_제111조_제3항,REFERENCES,법 제111조제3항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제58조,민사집행법_제82조,REFERENCES,법 제82조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제66조_제2항,민사집행규칙_제66조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제66조_제3항,민사집행규칙_제66조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제66조_제3항,민사집행법_제115조_제2항,REFERENCES,법 제115조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제67조_제1항,민사집행법_제116조,REFERENCES,법 제116조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제67조_제1항_제3호,민사집행규칙_제66조,REFERENCES,제66조,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제67조_제1항_제3호,민사집행법_제115조_제2항,REFERENCES,법 제115조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제67조_제1항_제4호,민사집행법_제108조,REFERENCES,법 제108조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제67조_제1항_제5호,민사집행법_제140조_제1항,REFERENCES,법 제140조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제67조_제1항_제6호,민사집행규칙_제76조_제3항,REFERENCES,제76조제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제6조_제2항,민사집행법_제116조_제2항,REFERENCES,법 제116조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제75조,민사집행법_제130조_제7항,REFERENCES,법 제130조제7항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제75조,민사집행법_제138조_제3항,REFERENCES,법 제138조제3항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제75조,민사집행법_제142조_제5항,REFERENCES,법 제142조제5항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제76조_제1항,민사집행법_제140조_제1항,REFERENCES,법 제140조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제76조_제2항,민사집행법_제140조_제1항,REFERENCES,법 제140조제1항,2,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제76조_제3항,민사집행법_제140조_제4항,REFERENCES,법 제140조제4항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제77조,민사집행법_제141조,REFERENCES,법 제141조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제78조,민사집행법_제142조_제1항,REFERENCES,법 제142조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제78조의2_제1항,민사집행법_제144조_제2항,REFERENCES,법 제144조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제78조의2_제1항_제5호,민사집행법_제144조_제2항,REFERENCES,법 제144조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제78조의2_제2항,민사집행규칙_제78조의2_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제79조,민사집행법_제137조_제2항,REFERENCES,법 제137조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제79조,민사집행법_제147조_제1항,REFERENCES,법 제147조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제7조_제1항_제3호,민사집행법_제266조_제2항,REFERENCES,법 제266조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제7조_제1항_제5호,민사집행법_제86조_제2항,REFERENCES,법 제86조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제7조_제1항_제6호,민사집행법_제246조_제3항,REFERENCES,법 제246조제3항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제7조_제2항,민사집행규칙_제7조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제82조_제1항,민사집행법_제160조,REFERENCES,법 제160조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제82조_제2항,민사집행법_제160조_제2항,REFERENCES,법 제160조제2항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제83조,민사집행법_제163조,REFERENCES,법 제163조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제83조,민사집행법_제80조,REFERENCES,법 제80조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제87조_제2항,민사집행규칙_제87조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제87조_제2항,민사집행법_제167조_제3항,REFERENCES,법 제167조제3항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제8조_제2항,민사집행규칙_제8조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제8조_제4항,LAW_민사집행규칙,REFERENCES,이 규칙,1,THIS_LAW,False,False,False,rule_v2
+민사집행규칙_제8조_제5항,민사집행법_제102조_제1항,REFERENCES,법 제102조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제90조_제2항,민사집행법_제163조,REFERENCES,법 제163조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제90조_제2항,민사집행법_제87조_제4항,REFERENCES,법 제87조제4항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제91조_제1항,민사집행법_제169조_제1항,REFERENCES,법 제169조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제91조_제2항,민사집행법_제169조_제1항,REFERENCES,법 제169조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제91조_제3항,민사집행규칙_제91조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제91조_제3항,민사집행규칙_제91조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제91조_제4항,민사집행규칙_제91조_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제91조_제5항,민사집행법_제169조_제3항,REFERENCES,법 제169조제3항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제91조_제6항,민사집행규칙_제91조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제91조_제6항,민사집행규칙_제91조_제4항,REFERENCES,제4항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제91조_제6항,민사집행법_제169조_제4항,REFERENCES,법 제169조제4항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제92조_제1항,민사집행규칙_제91조_제2항,REFERENCES,제91조제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제92조_제1항,민사집행규칙_제91조_제4항,REFERENCES,제4항,1,CHAINED,False,False,False,rule_v2
+민사집행규칙_제92조_제1항,민사집행법_제160조_제1항,REFERENCES,법 제160조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제93조_제1항,민사집행규칙_제92조,REFERENCES,제92조,1,CHAINED,False,False,False,rule_v2
+민사집행규칙_제93조_제2항,민사집행법_제169조_제3항,REFERENCES,법 제169조제3항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제93조_제2항_제1호,민사집행규칙_제93조_제1항_제1호,REFERENCES,제1항제1호,1,INTERNAL,False,False,False,rule_v2
+민사집행규칙_제93조_제2항_제1호,민사집행규칙_제93조_제1항_제2호,REFERENCES,제2호,1,CHAINED,False,False,False,rule_v2
+민사집행규칙_제93조_제2항_제2호,민사집행법_제169조_제1항,REFERENCES,법 제169조제1항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제95조_제1항,민사집행법_제80조,REFERENCES,법 제80조,1,PARENT_LAW,False,True,False,rule_v2
+민사집행규칙_제9조,민사집행법_제104조_제3항,REFERENCES,법 제104조제3항,1,PARENT_LAW,False,True,False,rule_v2
+민사집행법_제100조,민사집행법_제98조,REFERENCES,제98조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제100조,민사집행법_제99조,REFERENCES,제99조,1,CHAINED,False,False,False,rule_v2
+민사집행법_제101조_제1항,민사집행법_제98조,REFERENCES,제98조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제101조_제1항,민사집행법_제99조,REFERENCES,제99조,1,CHAINED,False,False,False,rule_v2
+민사집행법_제101조_제2항,민사집행법_제101조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제101조_제4항,민사집행법_제101조_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제101조_제5항,LAW_민사집행법,REFERENCES,이 법,1,THIS_LAW,False,False,False,rule_v2
+민사집행법_제102조_제2항,민사집행법_제102조_제1항,REFERENCES,제1항,2,INTERNAL,False,False,False,rule_v2
+민사집행법_제102조_제3항,민사집행법_제102조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제104조_제1항,민사집행법_제102조_제1항,REFERENCES,제102조제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제104조_제1항,민사집행법_제102조_제2항,REFERENCES,제102조제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제104조_제3항,민사집행법_제104조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제104조_제4항,민사집행법_제104조_제1항,REFERENCES,제1항 내지 제3항,1,RANGE,True,False,False,rule_v2
+민사집행법_제104조_제4항,민사집행법_제104조_제2항,REFERENCES,제1항 내지 제3항,1,RANGE,True,False,False,rule_v2
+민사집행법_제104조_제4항,민사집행법_제104조_제3항,REFERENCES,제1항 내지 제3항,1,RANGE,True,False,False,rule_v2
+민사집행법_제108조_제3호,민사집행법_제108조_제1호,REFERENCES,제1호,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제108조_제3호,민사집행법_제108조_제2호,REFERENCES,제2호,1,CHAINED,False,False,False,rule_v2
+민사집행법_제110조_제2항,민사집행법_제110조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제111조_제2항,민사집행법_제111조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제111조_제3항,민사집행법_제111조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제115조_제3항,민사집행법_제115조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제115조_제5항,민사집행법_제115조_제4항,REFERENCES,제4항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제118조_제2항,민사집행법_제118조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제118조_제3항,민사집행법_제118조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제119조,민사집행법_제91조_제1항,REFERENCES,제91조제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제121조_제4호,민사집행법_제108조,REFERENCES,제108조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제123조_제2항,민사집행법_제121조,REFERENCES,제121조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제123조_제2항,민사집행법_제121조_제2호,REFERENCES,같은 조 제2호,1,SAME_UNIT,False,False,False,rule_v2
+민사집행법_제123조_제2항,민사집행법_제121조_제3호,REFERENCES,제3호,1,CHAINED,False,False,False,rule_v2
+민사집행법_제124조_제1항,민사집행법_제101조_제3항,REFERENCES,제101조제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제124조_제2항,민사집행법_제124조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제125조_제1항,민사집행법_제121조,REFERENCES,제121조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제125조_제1항,민사집행법_제123조,REFERENCES,제123조,1,CHAINED,False,False,False,rule_v2
+민사집행법_제125조_제2항,민사집행법_제100조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제125조_제2항,민사집행법_제101조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제125조_제2항,민사집행법_제102조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제125조_제2항,민사집행법_제103조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제125조_제2항,민사집행법_제104조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제125조_제2항,민사집행법_제105조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제125조_제2항,민사집행법_제121조_제6호,REFERENCES,제121조제6호,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제125조_제2항,민사집행법_제125조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제125조_제2항,민사집행법_제97조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제125조_제2항,민사집행법_제98조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제125조_제2항,민사집행법_제99조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제126조_제3항,민사집행법_제126조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제127조_제1항,민사집행법_제121조_제6호,REFERENCES,제121조제6호,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제127조_제2항,민사집행법_제127조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제128조_제2항,민사집행법_제128조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제129조_제3항,민사집행법_제129조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제129조_제3항,민사집행법_제129조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제130조_제1항,LAW_민사집행법,REFERENCES,이 법,1,THIS_LAW,False,False,False,rule_v2
+민사집행법_제130조_제2항,민사집행법_제130조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제130조_제4항,민사집행법_제130조_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제130조_제5항,민사집행법_제130조_제4항,REFERENCES,제4항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제130조_제6항,민사집행법_제130조_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제130조_제7항,민사집행법_제130조_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제130조_제8항,민사집행법_제130조_제6항,REFERENCES,제6항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제130조_제8항,민사집행법_제130조_제7항,REFERENCES,제7항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제131조_제3항,민사집행법_제122조,REFERENCES,제122조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제134조,민사집행법_제100조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제134조,민사집행법_제101조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제134조,민사집행법_제102조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제134조,민사집행법_제103조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제134조,민사집행법_제104조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제134조,민사집행법_제105조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제134조,민사집행법_제127조,REFERENCES,제127조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제134조,민사집행법_제97조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제134조,민사집행법_제98조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제134조,민사집행법_제99조,REFERENCES,제97조 내지 제105조,1,RANGE,True,False,False,rule_v2
+민사집행법_제136조_제3항,민사집행법_제136조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제136조_제3항,민사집행법_제136조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제136조_제4항,민사집행법_제136조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제136조_제4항,민사집행법_제136조_제3항,REFERENCES,제3항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제136조_제5항,민사집행법_제136조_제1항,REFERENCES,제1항 내지 제3항,1,RANGE,True,False,False,rule_v2
+민사집행법_제136조_제5항,민사집행법_제136조_제2항,REFERENCES,제1항 내지 제3항,1,RANGE,True,False,False,rule_v2
+민사집행법_제136조_제5항,민사집행법_제136조_제3항,REFERENCES,제1항 내지 제3항,1,RANGE,True,False,False,rule_v2
+민사집행법_제136조_제6항,민사집행법_제136조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제136조_제6항,민사집행법_제136조_제3항,REFERENCES,제3항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제137조_제1항,민사집행법_제142조_제4항,REFERENCES,제142조제4항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제138조_제1항,민사집행법_제142조_제4항,REFERENCES,제142조제4항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제140조_제1항,민사집행법_제113조,REFERENCES,제113조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제140조_제2항,민사집행법_제140조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제140조_제3항,민사집행법_제140조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제140조_제4항,민사집행법_제114조,REFERENCES,제114조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제140조_제4항,민사집행법_제140조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제141조,민사집행법_제139조_제1항,REFERENCES,제139조제1항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제141조,민사집행법_제94조,REFERENCES,제94조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제142조_제2항,민사집행법_제142조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제142조_제5항,민사집행법_제138조_제3항,REFERENCES,제138조제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제142조_제5항,민사집행법_제142조_제4항,REFERENCES,제4항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제143조_제3항,민사집행법_제143조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제143조_제3항,민사집행법_제143조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제144조_제1항_제3호,민사집행법_제139조_제1항,REFERENCES,제139조제1항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제144조_제1항_제3호,민사집행법_제94조,REFERENCES,제94조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제144조_제2항,민사집행법_제144조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제144조_제3항,민사집행법_제144조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제147조_제1항_제2호,민사집행법_제138조_제3항,REFERENCES,제138조제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제147조_제1항_제2호,민사집행법_제142조_제4항,REFERENCES,제142조제4항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제147조_제1항_제3호,민사집행법_제130조_제6항,REFERENCES,제130조제6항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제147조_제1항_제3호,민사집행법_제130조_제8항,REFERENCES,제130조제8항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제147조_제1항_제4호,민사집행법_제130조_제7항,REFERENCES,제130조제7항,2,INTERNAL,False,False,False,rule_v2
+민사집행법_제147조_제1항_제4호,민사집행법_제130조_제8항,REFERENCES,제130조제8항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제147조_제1항_제5호,민사집행법_제138조_제4항,REFERENCES,제138조제4항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제147조_제2항,민사집행법_제147조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제147조_제2항,민사집행법_제147조_제1항_제4호,REFERENCES,제1항제4호,2,INTERNAL,False,False,False,rule_v2
+민사집행법_제147조_제3항,민사집행법_제147조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제147조_제3항,민사집행법_제147조_제1항_제4호,REFERENCES,제1항제4호,2,INTERNAL,False,False,False,rule_v2
+민사집행법_제148조,민사집행법_제147조_제1항,REFERENCES,제147조제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제151조_제2항,민사집행법_제149조_제1항,REFERENCES,제149조제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제151조_제2항,민사집행법_제151조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제152조_제1항,민사집행법_제151조,REFERENCES,제151조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제152조_제2항,민사집행법_제151조,REFERENCES,제151조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제152조_제3항,민사집행법_제151조,REFERENCES,제151조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제154조_제3항,민사집행법_제154조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제154조_제3항,민사집행법_제154조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제155조,민사집행법_제154조_제3항,REFERENCES,제154조제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제156조_제1항,민사집행법_제154조_제1항,REFERENCES,제154조제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제156조_제3항,민사집행법_제156조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제156조_제3항,민사집행법_제156조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제159조_제1항,민사집행법_제159조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제159조_제1항,민사집행법_제159조_제3항,REFERENCES,제3항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제159조_제4항,민사집행법_제159조_제1항,REFERENCES,제1항 내지 제3항,1,RANGE,True,False,False,rule_v2
+민사집행법_제159조_제4항,민사집행법_제159조_제2항,REFERENCES,제1항 내지 제3항,1,RANGE,True,False,False,rule_v2
+민사집행법_제159조_제4항,민사집행법_제159조_제3항,REFERENCES,제1항 내지 제3항,1,RANGE,True,False,False,rule_v2
+민사집행법_제160조_제1항_제3호,민사집행법_제266조_제1항_제5호,REFERENCES,제266조제1항제5호,1,CHAINED,False,False,False,rule_v2
+민사집행법_제160조_제1항_제5호,민사집행법_제154조_제1항,REFERENCES,제154조제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제160조_제1항_제6호,민법_제340조_제2항,REFERENCES,민법 제340조제2항,1,EXPLICIT_LAW,False,True,False,rule_v2
+민사집행법_제160조_제1항_제6호,민법_제370조,REFERENCES,같은 법 제370조,1,SAME_LAW,False,True,False,rule_v2
+민사집행법_제161조_제1항,민사집행법_제160조_제1항,REFERENCES,제160조제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제161조_제2항,민사집행법_제161조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제161조_제2항_제1호,민사집행법_제160조_제1항_제1호,REFERENCES,제160조제1항제1호 내지 제4호,1,RANGE,True,False,False,rule_v2
+민사집행법_제161조_제2항_제1호,민사집행법_제160조_제1항_제2호,REFERENCES,제160조제1항제1호 내지 제4호,1,RANGE,True,False,False,rule_v2
+민사집행법_제161조_제2항_제1호,민사집행법_제160조_제1항_제3호,REFERENCES,제160조제1항제1호 내지 제4호,1,RANGE,True,False,False,rule_v2
+민사집행법_제161조_제2항_제1호,민사집행법_제160조_제1항_제4호,REFERENCES,제160조제1항제1호 내지 제4호,1,RANGE,True,False,False,rule_v2
+민사집행법_제161조_제2항_제2호,민사집행법_제160조_제1항_제5호,REFERENCES,제160조제1항제5호,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제161조_제2항_제3호,민사집행법_제160조_제1항_제6호,REFERENCES,제160조제1항제6호,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제161조_제3항,민사집행법_제160조_제2항,REFERENCES,제160조제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제161조_제4항,민사집행법_제151조,REFERENCES,제151조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제161조_제4항,민사집행법_제161조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제161조_제4항,민사집행법_제161조_제3항,REFERENCES,제3항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제162조,민사집행법_제100조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제101조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제102조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제103조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제104조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제105조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제106조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제107조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제108조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제109조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제110조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제111조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제112조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제113조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제114조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제115조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제116조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제117조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제118조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제119조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제120조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제121조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제122조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제123조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제124조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제125조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제126조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제127조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제128조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제129조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제130조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제131조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제132조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제133조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제134조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제135조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제136조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제137조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제138조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제139조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제140조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제141조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제142조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제143조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제144조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제145조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제146조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제147조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제148조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제149조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제150조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제151조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제152조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제153조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제154조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제155조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제156조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제157조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제158조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제159조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제160조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제161조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제80조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제81조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제82조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제83조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제84조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제85조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제86조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제87조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제88조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제89조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제90조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제91조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제92조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제93조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제94조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제95조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제96조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제97조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제98조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제162조,민사집행법_제99조,REFERENCES,제80조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제80조,REFERENCES,제80조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제81조,REFERENCES,제80조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제82조,REFERENCES,제80조 내지 제82조,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제83조_제1항,REFERENCES,제83조제1항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제163조,민사집행법_제83조_제3항,REFERENCES,제3항 내지 제5항,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제83조_제4항,REFERENCES,제3항 내지 제5항,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제83조_제5항,REFERENCES,제3항 내지 제5항,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제85조,REFERENCES,제85조 내지 제89조,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제86조,REFERENCES,제85조 내지 제89조,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제87조,REFERENCES,제85조 내지 제89조,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제88조,REFERENCES,제85조 내지 제89조,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제89조,REFERENCES,제85조 내지 제89조,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제94조,REFERENCES,제94조 내지 제96조,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제95조,REFERENCES,제94조 내지 제96조,1,RANGE,True,False,False,rule_v2
+민사집행법_제163조,민사집행법_제96조,REFERENCES,제94조 내지 제96조,1,RANGE,True,False,False,rule_v2
+민사집행법_제164조_제2항,민사집행법_제164조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제169조_제2항,민사집행법_제169조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제145조,REFERENCES,제145조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제146조,REFERENCES,제146조,1,CHAINED,False,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제148조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제149조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제150조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제151조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제152조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제153조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제154조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제155조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제156조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제157조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제158조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제159조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제160조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제161조,REFERENCES,제148조 내지 제161조,1,RANGE,True,False,False,rule_v2
+민사집행법_제169조_제4항,민사집행법_제169조_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제170조_제3항,민사집행법_제170조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제170조_제4항,민사집행법_제170조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제171조_제2항,민사집행법_제171조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제171조_제3항,민사집행법_제171조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제171조_제3항,민사집행법_제171조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제246조_제1항_제6호,LAW_주택임대차보호법시행령,REFERENCES,같은 법 시행령,1,SAME_LAW,False,True,False,rule_v2
+민사집행법_제246조_제1항_제6호,주택임대차보호법_제8조,REFERENCES,「주택임대차보호법」 제8조,1,EXPLICIT_LAW,False,True,False,rule_v2
+민사집행법_제246조_제1항_제8호,민사집행법_제246조의2,REFERENCES,제246조의2,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제246조_제1항_제9호,민사집행법_제246조_제1항_제8호,REFERENCES,제8호,2,INTERNAL,False,False,False,rule_v2
+민사집행법_제246조_제2항,민사집행법_제246조_제1항_제1호,REFERENCES,제1항제1호부터 제7호까지,1,RANGE,True,False,False,rule_v2
+민사집행법_제246조_제2항,민사집행법_제246조_제1항_제2호,REFERENCES,제1항제1호부터 제7호까지,1,RANGE,True,False,False,rule_v2
+민사집행법_제246조_제2항,민사집행법_제246조_제1항_제3호,REFERENCES,제1항제1호부터 제7호까지,1,RANGE,True,False,False,rule_v2
+민사집행법_제246조_제2항,민사집행법_제246조_제1항_제4호,REFERENCES,제1항제1호부터 제7호까지,1,RANGE,True,False,False,rule_v2
+민사집행법_제246조_제2항,민사집행법_제246조_제1항_제5호,REFERENCES,제1항제1호부터 제7호까지,1,RANGE,True,False,False,rule_v2
+민사집행법_제246조_제2항,민사집행법_제246조_제1항_제6호,REFERENCES,제1항제1호부터 제7호까지,1,RANGE,True,False,False,rule_v2
+민사집행법_제246조_제2항,민사집행법_제246조_제1항_제7호,REFERENCES,제1항제1호부터 제7호까지,1,RANGE,True,False,False,rule_v2
+민사집행법_제246조_제3항,민사집행법_제246조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제246조_제4항,민사집행법_제246조_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제246조의2_제2항,민사집행법_제246조의2_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제264조_제3항,민사집행법_제264조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제266조_제2항,민사집행법_제266조_제1항_제1호,REFERENCES,제1항제1호 내지 제3호,1,RANGE,True,False,False,rule_v2
+민사집행법_제266조_제2항,민사집행법_제266조_제1항_제2호,REFERENCES,제1항제1호 내지 제3호,1,RANGE,True,False,False,rule_v2
+민사집행법_제266조_제2항,민사집행법_제266조_제1항_제3호,REFERENCES,제1항제1호 내지 제3호,1,RANGE,True,False,False,rule_v2
+민사집행법_제266조_제2항,민사집행법_제266조_제1항_제4호,REFERENCES,제4호,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제266조_제2항,민사집행법_제266조_제1항_제5호,REFERENCES,제5호,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제266조_제3항,민사집행법_제266조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제268조,민사집행법_제100조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제101조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제102조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제103조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제104조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제105조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제106조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제107조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제108조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제109조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제110조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제111조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제112조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제113조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제114조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제115조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제116조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제117조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제118조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제119조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제120조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제121조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제122조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제123조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제124조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제125조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제126조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제127조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제128조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제129조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제130조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제131조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제132조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제133조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제134조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제135조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제136조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제137조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제138조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제139조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제140조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제141조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제142조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제143조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제144조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제145조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제146조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제147조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제148조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제149조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제150조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제151조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제152조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제153조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제154조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제155조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제156조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제157조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제158조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제159조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제160조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제161조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제162조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제79조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제80조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제81조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제82조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제83조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제84조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제85조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제86조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제87조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제88조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제89조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제90조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제91조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제92조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제93조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제94조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제95조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제96조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제97조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제98조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제268조,민사집행법_제99조,REFERENCES,제79조 내지 제162조,1,RANGE,True,False,False,rule_v2
+민사집행법_제269조,민사집행법_제264조,REFERENCES,제264조 내지 제268조,1,RANGE,True,False,False,rule_v2
+민사집행법_제269조,민사집행법_제265조,REFERENCES,제264조 내지 제268조,1,RANGE,True,False,False,rule_v2
+민사집행법_제269조,민사집행법_제266조,REFERENCES,제264조 내지 제268조,1,RANGE,True,False,False,rule_v2
+민사집행법_제269조,민사집행법_제267조,REFERENCES,제264조 내지 제268조,1,RANGE,True,False,False,rule_v2
+민사집행법_제269조,민사집행법_제268조,REFERENCES,제264조 내지 제268조,1,RANGE,True,False,False,rule_v2
+민사집행법_제270조,민사집행법_제264조,REFERENCES,제264조부터 제269조까지,1,RANGE,True,False,False,rule_v2
+민사집행법_제270조,민사집행법_제265조,REFERENCES,제264조부터 제269조까지,1,RANGE,True,False,False,rule_v2
+민사집행법_제270조,민사집행법_제266조,REFERENCES,제264조부터 제269조까지,1,RANGE,True,False,False,rule_v2
+민사집행법_제270조,민사집행법_제267조,REFERENCES,제264조부터 제269조까지,1,RANGE,True,False,False,rule_v2
+민사집행법_제270조,민사집행법_제268조,REFERENCES,제264조부터 제269조까지,1,RANGE,True,False,False,rule_v2
+민사집행법_제270조,민사집행법_제269조,REFERENCES,제264조부터 제269조까지,1,RANGE,True,False,False,rule_v2
+민사집행법_제270조,민사집행법_제271조,REFERENCES,제271조,1,CHAINED,False,False,False,rule_v2
+민사집행법_제270조,민사집행법_제272조,REFERENCES,제272조,1,CHAINED,False,False,False,rule_v2
+민사집행법_제272조,민사집행법_제265조,REFERENCES,제265조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제272조,민사집행법_제266조,REFERENCES,제266조,1,CHAINED,False,False,False,rule_v2
+민사집행법_제272조,민사집행법_제271조,REFERENCES,제271조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제273조_제2항,민법_제342조,REFERENCES,민법 제342조,1,EXPLICIT_LAW,False,True,False,rule_v2
+민사집행법_제273조_제2항,민사집행법_제273조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제273조_제3항,민사집행법_제273조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제273조_제3항,민사집행법_제273조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제274조_제3항,민사집행법_제274조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제78조_제3항,민사집행법_제78조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제81조_제2항,민사집행법_제81조_제1항_제2호,REFERENCES,제1항제2호,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제81조_제3항,민사집행법_제81조_제1항_제2호,REFERENCES,제1항제2호,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제81조_제4항,민사집행법_제81조_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제81조_제5항,민사집행법_제81조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제82조_제1항,민사집행법_제81조_제4항,REFERENCES,제81조제4항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제82조_제2항,민사집행법_제82조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제83조_제4항,민사집행법_제94조,REFERENCES,제94조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제84조_제2항,민사집행법_제88조_제1항,REFERENCES,제88조제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제84조_제2항,민사집행법_제91조_제4항,REFERENCES,제91조제4항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제84조_제3항,민사집행법_제84조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제84조_제3항,민사집행법_제84조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제84조_제4항,민사집행법_제148조_제3호,REFERENCES,제148조제3호,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제84조_제4항,민사집행법_제148조_제4호,REFERENCES,제4호,1,CHAINED,False,False,False,rule_v2
+민사집행법_제84조_제5항,민사집행법_제148조_제3호,REFERENCES,제148조제3호,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제84조_제5항,민사집행법_제148조_제4호,REFERENCES,제4호,1,CHAINED,False,False,False,rule_v2
+민사집행법_제84조_제5항,민사집행법_제84조_제4항,REFERENCES,제4항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제84조_제7항,민사집행법_제84조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제84조_제7항,민사집행법_제84조_제4항,REFERENCES,같은 항 | 제4항,2,CHAINED;SAME_UNIT,False,False,False,rule_v2
+민사집행법_제84조_제7항,민사집행법_제84조_제6항,REFERENCES,제6항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제85조_제2항,민사집행법_제82조,REFERENCES,제82조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제85조_제2항,민사집행법_제85조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제86조_제2항,민사집행법_제86조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제86조_제3항,민사집행법_제86조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제87조_제2항,민사집행법_제91조_제1항,REFERENCES,제91조제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제87조_제3항,민사집행법_제84조_제2항,REFERENCES,제84조제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제87조_제3항,민사집행법_제84조_제4항,REFERENCES,같은 항 | 제4항,2,CHAINED;SAME_UNIT,False,False,False,rule_v2
+민사집행법_제87조_제3항,민사집행법_제87조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제87조_제4항,민사집행법_제105조_제1항_제3호,REFERENCES,제105조제1항제3호,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제87조_제5항,민사집행법_제87조_제4항,REFERENCES,제4항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제89조,민사집행법_제87조_제1항,REFERENCES,제87조제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제89조,민사집행법_제88조_제1항,REFERENCES,제88조제1항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제91조_제4항,민사집행법_제88조,REFERENCES,제88조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제91조_제4항,민사집행법_제91조_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제93조_제2항,민사집행법_제114조,REFERENCES,제114조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제93조_제3항,민사집행법_제93조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제93조_제3항,민사집행법_제93조_제2항,REFERENCES,제2항,2,CHAINED;INTERNAL,False,False,False,rule_v2
+민사집행법_제94조_제2항,민사집행법_제94조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제95조,민사집행법_제94조,REFERENCES,제94조,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제96조_제2항,민사집행법_제96조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제97조_제2항,민사집행법_제82조_제1항,REFERENCES,제82조제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제97조_제2항,민사집행법_제97조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제98조_제3항,민사집행법_제98조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제98조_제3항,민사집행법_제98조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제99조_제1항,민사집행법_제98조_제1항,REFERENCES,제98조제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제99조_제1항,민사집행법_제98조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+민사집행법_제99조_제2항,민사집행법_제99조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제99조_제3항,민사집행법_제99조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+민사집행법_제99조_제3항,민사집행법_제99조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제10조,LAW_주택임대차보호법,REFERENCES,이 법,1,THIS_LAW,False,False,False,rule_v2
+주택임대차보호법_제10조의2,주택임대차보호법_제7조,REFERENCES,제7조,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제10조의2,주택임대차보호법_제7조의2,REFERENCES,제7조의2,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제11조,LAW_주택임대차보호법,REFERENCES,이 법,1,THIS_LAW,False,False,False,rule_v2
+주택임대차보호법_제12조,LAW_주택임대차보호법,REFERENCES,이 법,1,THIS_LAW,False,False,False,rule_v2
+주택임대차보호법_제14조_제1항,LAW_주택임대차보호법,REFERENCES,이 법,1,THIS_LAW,False,False,False,rule_v2
+주택임대차보호법_제16조_제3항,주택임대차보호법_제16조_제3항_제1호,REFERENCES,제1호부터 제4호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제16조_제3항,주택임대차보호법_제16조_제3항_제2호,REFERENCES,제1호부터 제4호까지 | 제2호,2,INTERNAL;RANGE,False,False,False,rule_v2
+주택임대차보호법_제16조_제3항,주택임대차보호법_제16조_제3항_제3호,REFERENCES,제1호부터 제4호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제16조_제3항,주택임대차보호법_제16조_제3항_제4호,REFERENCES,제1호부터 제4호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제16조_제4항,주택임대차보호법_제16조_제3항_제2호,REFERENCES,제3항제2호,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제16조_제8항,주택임대차보호법_제16조_제3항_제2호,REFERENCES,제3항제2호,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제17조_제2항,주택임대차보호법_제16조_제3항_제2호,REFERENCES,제16조제3항제2호,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제17조_제3항_제1호,주택임대차보호법_제14조_제2항,REFERENCES,제14조제2항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제17조_제5항,주택임대차보호법_제17조_제4항,REFERENCES,제4항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제19조_제2항_제1호,주택임대차보호법_제18조,REFERENCES,제18조,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제1조,LAW_민법,REFERENCES,「민법」,1,EXPLICIT_LAW,False,True,False,rule_v2
+주택임대차보호법_제1조,LAW_주택임대차보호법,REFERENCES,이 법,1,THIS_LAW,False,False,False,rule_v2
+주택임대차보호법_제20조_제5항,주택임대차보호법_제20조_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제20조_제6항,주택임대차보호법_제20조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제20조_제6항,주택임대차보호법_제20조_제3항,REFERENCES,제3항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제21조_제1항,주택임대차보호법_제14조_제2항,REFERENCES,제14조제2항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제21조_제3항_제3호,LAW_주택임대차보호법,REFERENCES,이 법,1,THIS_LAW,False,False,False,rule_v2
+주택임대차보호법_제22조_제2항,주택임대차보호법_제21조_제2항,REFERENCES,제21조제2항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제22조_제2항,주택임대차보호법_제22조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제23조_제2항,주택임대차보호법_제23조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제25조_제2항,주택임대차보호법_제25조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제26조_제2항,주택임대차보호법_제26조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제26조_제3항,주택임대차보호법_제26조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제26조_제4항,주택임대차보호법_제26조_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제27조,주택임대차보호법_제26조_제4항,REFERENCES,제26조제4항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제29조,LAW_주택임대차보호법,REFERENCES,이 법,1,THIS_LAW,False,False,False,rule_v2
+주택임대차보호법_제2조,LAW_주택임대차보호법,REFERENCES,이 법,1,THIS_LAW,False,False,False,rule_v2
+주택임대차보호법_제3조_제2항,주택임대차보호법_제3조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조_제3항,주택임대차보호법_제3조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조_제5항,LAW_주택임대차보호법,REFERENCES,이 법,1,THIS_LAW,False,False,False,rule_v2
+주택임대차보호법_제3조_제5항,민법_제575조_제1항,REFERENCES,「민법」 제575조제1항,1,EXPLICIT_LAW,False,True,False,rule_v2
+주택임대차보호법_제3조_제5항,민법_제575조_제3항,REFERENCES,제3항,1,CHAINED,False,True,False,rule_v2
+주택임대차보호법_제3조_제5항,민법_제578조,REFERENCES,같은 법 제578조,1,SAME_LAW,False,True,False,rule_v2
+주택임대차보호법_제3조_제6항,민법_제536조,REFERENCES,「민법」 제536조,1,EXPLICIT_LAW,False,True,False,rule_v2
+주택임대차보호법_제3조_제6항,주택임대차보호법_제3조_제5항,REFERENCES,제5항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제1항,주택임대차보호법_제3조_제2항,REFERENCES,제3조제2항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제1항,주택임대차보호법_제3조_제3항,REFERENCES,제3항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제2항,LAW_민사집행법,REFERENCES,「민사집행법」,1,EXPLICIT_LAW,False,True,False,rule_v2
+주택임대차보호법_제3조의2_제2항,주택임대차보호법_제3조_제1항,REFERENCES,제3조제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제2항,주택임대차보호법_제3조_제2항,REFERENCES,제2항 | 제3조제2항,2,CHAINED;INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제2항,주택임대차보호법_제3조_제3항,REFERENCES,제3항,2,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제3항,주택임대차보호법_제3조의2_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제4항,주택임대차보호법_제3조의2_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제4항,주택임대차보호법_제3조의2_제7항,REFERENCES,제7항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제5항,민사집행법_제152조,REFERENCES,「민사집행법」 제152조부터 제161조까지,1,RANGE,True,True,False,rule_v2
+주택임대차보호법_제3조의2_제5항,민사집행법_제153조,REFERENCES,「민사집행법」 제152조부터 제161조까지,1,RANGE,True,True,False,rule_v2
+주택임대차보호법_제3조의2_제5항,민사집행법_제154조,REFERENCES,「민사집행법」 제152조부터 제161조까지,1,RANGE,True,True,False,rule_v2
+주택임대차보호법_제3조의2_제5항,민사집행법_제155조,REFERENCES,「민사집행법」 제152조부터 제161조까지,1,RANGE,True,True,False,rule_v2
+주택임대차보호법_제3조의2_제5항,민사집행법_제156조,REFERENCES,「민사집행법」 제152조부터 제161조까지,1,RANGE,True,True,False,rule_v2
+주택임대차보호법_제3조의2_제5항,민사집행법_제157조,REFERENCES,「민사집행법」 제152조부터 제161조까지,1,RANGE,True,True,False,rule_v2
+주택임대차보호법_제3조의2_제5항,민사집행법_제158조,REFERENCES,「민사집행법」 제152조부터 제161조까지,1,RANGE,True,True,False,rule_v2
+주택임대차보호법_제3조의2_제5항,민사집행법_제159조,REFERENCES,「민사집행법」 제152조부터 제161조까지,1,RANGE,True,True,False,rule_v2
+주택임대차보호법_제3조의2_제5항,민사집행법_제160조,REFERENCES,「민사집행법」 제152조부터 제161조까지,1,RANGE,True,True,False,rule_v2
+주택임대차보호법_제3조의2_제5항,민사집행법_제161조,REFERENCES,「민사집행법」 제152조부터 제161조까지,1,RANGE,True,True,False,rule_v2
+주택임대차보호법_제3조의2_제5항,주택임대차보호법_제3조의2_제4항,REFERENCES,제4항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제6항,주택임대차보호법_제3조의2_제4항,REFERENCES,제4항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제6항,주택임대차보호법_제3조의2_제7항,REFERENCES,제7항,2,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제7항,주택임대차보호법_제3조의2_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제7항,주택임대차보호법_제3조의3_제5항,REFERENCES,제3조의3제5항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제7항,주택임대차보호법_제3조의4_제1항,REFERENCES,제3조의4제1항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제7항_제10호,주택임대차보호법_제3조의2_제7항_제1호,REFERENCES,제1호부터 제9호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제3조의2_제7항_제10호,주택임대차보호법_제3조의2_제7항_제2호,REFERENCES,제1호부터 제9호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제3조의2_제7항_제10호,주택임대차보호법_제3조의2_제7항_제3호,REFERENCES,제1호부터 제9호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제3조의2_제7항_제10호,주택임대차보호법_제3조의2_제7항_제4호,REFERENCES,제1호부터 제9호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제3조의2_제7항_제10호,주택임대차보호법_제3조의2_제7항_제5호,REFERENCES,제1호부터 제9호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제3조의2_제7항_제10호,주택임대차보호법_제3조의2_제7항_제6호,REFERENCES,제1호부터 제9호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제3조의2_제7항_제10호,주택임대차보호법_제3조의2_제7항_제7호,REFERENCES,제1호부터 제9호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제3조의2_제7항_제10호,주택임대차보호법_제3조의2_제7항_제8호,REFERENCES,제1호부터 제9호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제3조의2_제7항_제10호,주택임대차보호법_제3조의2_제7항_제9호,REFERENCES,제1호부터 제9호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제3조의2_제8항,주택임대차보호법_제3조의2_제7항,REFERENCES,제7항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제8항_제1호,주택임대차보호법_제3조_제1항,REFERENCES,제3조제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제8항_제1호,주택임대차보호법_제3조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제8항_제1호,주택임대차보호법_제3조_제3항,REFERENCES,제3항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제8항_제2호,주택임대차보호법_제3조의3_제5항,REFERENCES,제3조의3제5항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의2_제8항_제3호,민법_제621조,REFERENCES,「민법」 제621조,1,EXPLICIT_LAW,False,True,False,rule_v2
+주택임대차보호법_제3조의3_제2항_제3호,주택임대차보호법_제3조_제1항,REFERENCES,제3조제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의3_제2항_제3호,주택임대차보호법_제3조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의3_제2항_제3호,주택임대차보호법_제3조_제3항,REFERENCES,제3항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의3_제2항_제3호,주택임대차보호법_제3조의2_제2항,REFERENCES,제3조의2제2항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의3_제5항,주택임대차보호법_제3조_제1항,REFERENCES,제3조제1항,2,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의3_제5항,주택임대차보호법_제3조_제2항,REFERENCES,제2항,2,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의3_제5항,주택임대차보호법_제3조_제3항,REFERENCES,제3항,2,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의3_제5항,주택임대차보호법_제3조의2_제2항,REFERENCES,제3조의2제2항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의3_제6항,주택임대차보호법_제8조,REFERENCES,제8조,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의3_제8항,주택임대차보호법_제3조의3_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의3_제9항,주택임대차보호법_제3조의3_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의3_제9항,주택임대차보호법_제3조의3_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의3_제9항,주택임대차보호법_제3조의3_제4항,REFERENCES,제4항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의3_제9항,주택임대차보호법_제3조의3_제8항,REFERENCES,제8항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의4_제1항,민법_제621조,REFERENCES,「민법」 제621조,1,EXPLICIT_LAW,False,True,False,rule_v2
+주택임대차보호법_제3조의4_제1항,주택임대차보호법_제3조의3_제5항,REFERENCES,제3조의3제5항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의4_제1항,주택임대차보호법_제3조의3_제6항,REFERENCES,제6항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의4_제2항,민법_제621조_제1항,REFERENCES,「민법」 제621조제1항,1,EXPLICIT_LAW,False,True,False,rule_v2
+주택임대차보호법_제3조의5,LAW_민사집행법,REFERENCES,「민사집행법」,1,EXPLICIT_LAW,False,True,False,rule_v2
+주택임대차보호법_제3조의6_제1항,주택임대차보호법_제3조의2_제2항,REFERENCES,제3조의2제2항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의6_제4항,주택임대차보호법_제3조의6_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의6_제5항,주택임대차보호법_제3조의6_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의6_제5항,주택임대차보호법_제3조의6_제3항,REFERENCES,제3항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의6_제5항,주택임대차보호법_제3조의6_제4항,REFERENCES,제4항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제3조의7_제1호,주택임대차보호법_제3조의6_제3항,REFERENCES,제3조의6제3항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제3조의7_제1호,주택임대차보호법_제3조의6_제4항,REFERENCES,제3조의6제4항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조_제2항,주택임대차보호법_제6조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조_제3항,주택임대차보호법_제6조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조의2_제1항,주택임대차보호법_제6조_제1항,REFERENCES,제6조제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조의2_제1항,주택임대차보호법_제6조_제2항,REFERENCES,같은 조 제2항,1,SAME_UNIT,False,False,False,rule_v2
+주택임대차보호법_제6조의2_제2항,주택임대차보호법_제6조의2_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조의3_제1항,주택임대차보호법_제6조,REFERENCES,제6조,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조의3_제1항,주택임대차보호법_제6조_제1항,REFERENCES,제6조제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조의3_제2항,주택임대차보호법_제6조의3_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조의3_제3항,주택임대차보호법_제7조,REFERENCES,제7조,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조의3_제4항,주택임대차보호법_제6조의2,REFERENCES,제6조의2,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조의3_제4항,주택임대차보호법_제6조의3_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조의3_제5항,주택임대차보호법_제6조의3_제1항_제8호,REFERENCES,제1항제8호,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조의3_제6항,주택임대차보호법_제6조의3_제5항,REFERENCES,제5항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조의3_제6항_제1호,주택임대차보호법_제7조의2,REFERENCES,제7조의2,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제6조의3_제6항_제3호,주택임대차보호법_제6조의3_제1항_제8호,REFERENCES,제1항제8호,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제7조_제2항,주택임대차보호법_제7조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제8조_제1항,주택임대차보호법_제3조_제1항,REFERENCES,제3조제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제8조_제2항,주택임대차보호법_제3조의2_제4항,REFERENCES,제3조의2제4항부터 제6항까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제8조_제2항,주택임대차보호법_제3조의2_제5항,REFERENCES,제3조의2제4항부터 제6항까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제8조_제2항,주택임대차보호법_제3조의2_제6항,REFERENCES,제3조의2제4항부터 제6항까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제8조_제2항,주택임대차보호법_제8조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제8조_제3항,주택임대차보호법_제8조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제8조_제3항,주택임대차보호법_제8조의2,REFERENCES,제8조의2,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제8조의2_제1항,주택임대차보호법_제8조,REFERENCES,제8조,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제8조의2_제4항,주택임대차보호법_제8조의2_제4항_제1호,REFERENCES,제1호 | 제1호부터 제5호까지,2,INTERNAL;RANGE,False,False,False,rule_v2
+주택임대차보호법_제8조의2_제4항,주택임대차보호법_제8조의2_제4항_제2호,REFERENCES,제1호부터 제5호까지 | 제2호,2,CHAINED;RANGE,False,False,False,rule_v2
+주택임대차보호법_제8조의2_제4항,주택임대차보호법_제8조의2_제4항_제3호,REFERENCES,제1호부터 제5호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제8조의2_제4항,주택임대차보호법_제8조의2_제4항_제4호,REFERENCES,제1호부터 제5호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제8조의2_제4항,주택임대차보호법_제8조의2_제4항_제5호,REFERENCES,제1호부터 제5호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법_제8조의2_제4항,주택임대차보호법_제8조의2_제4항_제6호,REFERENCES,제6호,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제9조_제3항,주택임대차보호법_제9조_제1항,REFERENCES,제1항,2,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제9조_제3항,주택임대차보호법_제9조_제2항,REFERENCES,제2항,2,CHAINED,False,False,False,rule_v2
+주택임대차보호법_제9조_제4항,주택임대차보호법_제9조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법_제9조_제4항,주택임대차보호법_제9조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법시행령_제10조_제1항,주택임대차보호법_제8조,REFERENCES,법 제8조,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제11조,주택임대차보호법_제8조,REFERENCES,법 제8조,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제12조,주택임대차보호법_제8조의2_제4항_제6호,REFERENCES,법 제8조의2제4항제6호,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제13조_제1항,주택임대차보호법_제8조의2,REFERENCES,법 제8조의2,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제1조,LAW_주택임대차보호법,REFERENCES,「주택임대차보호법」,1,EXPLICIT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제1조,LAW_주택임대차보호법시행령,REFERENCES,이 영,1,THIS_LAW,False,False,False,rule_v2
+주택임대차보호법시행령_제20조,LAW_주택임대차보호법시행령,REFERENCES,이 영,1,THIS_LAW,False,False,False,rule_v2
+주택임대차보호법시행령_제21조,주택임대차보호법_제14조_제1항,REFERENCES,법 제14조제1항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제22조,주택임대차보호법_제14조_제2항_제5호,REFERENCES,법 제14조제2항제5호,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제22조_제7호,주택임대차보호법시행령_제22조_제1호,REFERENCES,제1호부터 제6호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제22조_제7호,주택임대차보호법시행령_제22조_제2호,REFERENCES,제1호부터 제6호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제22조_제7호,주택임대차보호법시행령_제22조_제3호,REFERENCES,제1호부터 제6호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제22조_제7호,주택임대차보호법시행령_제22조_제4호,REFERENCES,제1호부터 제6호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제22조_제7호,주택임대차보호법시행령_제22조_제5호,REFERENCES,제1호부터 제6호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제22조_제7호,주택임대차보호법시행령_제22조_제6호,REFERENCES,제1호부터 제6호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제23조_제1항,주택임대차보호법_제14조_제3항,REFERENCES,법 제14조제3항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제24조,주택임대차보호법_제14조_제1항,REFERENCES,법 제14조제1항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제25조,주택임대차보호법_제16조_제3항_제6호,REFERENCES,법 제16조제3항제6호,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제28조,주택임대차보호법_제17조_제3항_제1호,REFERENCES,법 제17조제3항제1호,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제28조_제1호_나목,주택임대차보호법시행령_제28조_제1호_가목,REFERENCES,가목,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제29조_제3항,주택임대차보호법시행령_제26조,REFERENCES,제26조,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제2조,주택임대차보호법_제3조_제2항,REFERENCES,"「주택임대차보호법」(이하 ""법""이라 한다) 제3조제2항",1,EXPLICIT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제31조_제1항,주택임대차보호법_제21조_제2항,REFERENCES,법 제21조제2항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제31조_제1항_제1호,주택임대차보호법_제21조_제3항,REFERENCES,법 제21조제3항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제31조_제1항_제2호,주택임대차보호법_제22조_제2항,REFERENCES,법 제22조제2항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제31조_제1항_제3호,주택임대차보호법_제23조,REFERENCES,법 제23조,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제31조_제1항_제4호,주택임대차보호법_제24조,REFERENCES,법 제24조,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제31조_제2항,주택임대차보호법시행령_제31조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제32조_제3항,주택임대차보호법시행령_제32조_제2항,REFERENCES,제2항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제33조_제1항,주택임대차보호법_제21조_제1항,REFERENCES,법 제21조제1항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제33조_제2항,주택임대차보호법시행령_제33조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제33조_제2항_제11호,주택임대차보호법시행령_제33조_제2항_제10호,REFERENCES,제1호부터 제10호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제33조_제2항_제11호,주택임대차보호법시행령_제33조_제2항_제1호,REFERENCES,제1호부터 제10호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제33조_제2항_제11호,주택임대차보호법시행령_제33조_제2항_제2호,REFERENCES,제1호부터 제10호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제33조_제2항_제11호,주택임대차보호법시행령_제33조_제2항_제3호,REFERENCES,제1호부터 제10호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제33조_제2항_제11호,주택임대차보호법시행령_제33조_제2항_제4호,REFERENCES,제1호부터 제10호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제33조_제2항_제11호,주택임대차보호법시행령_제33조_제2항_제5호,REFERENCES,제1호부터 제10호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제33조_제2항_제11호,주택임대차보호법시행령_제33조_제2항_제6호,REFERENCES,제1호부터 제10호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제33조_제2항_제11호,주택임대차보호법시행령_제33조_제2항_제7호,REFERENCES,제1호부터 제10호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제33조_제2항_제11호,주택임대차보호법시행령_제33조_제2항_제8호,REFERENCES,제1호부터 제10호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제33조_제2항_제11호,주택임대차보호법시행령_제33조_제2항_제9호,REFERENCES,제1호부터 제10호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제33조_제2항_제1호,주택임대차보호법_제8조,REFERENCES,법 제8조,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제33조_제3항_제1호,주택임대차보호법_제21조_제3항_제1호,REFERENCES,법 제21조제3항제1호,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제33조_제3항_제1호,주택임대차보호법_제21조_제3항_제2호,REFERENCES,제2호,1,CHAINED,False,True,False,rule_v2
+주택임대차보호법시행령_제33조_제3항_제2호,주택임대차보호법_제21조_제3항_제3호,REFERENCES,법 제21조제3항제3호,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제33조_제3항_제2호,주택임대차보호법_제21조_제3항_제5호,REFERENCES,제5호,1,CHAINED,False,True,False,rule_v2
+주택임대차보호법시행령_제33조_제4항,주택임대차보호법시행령_제33조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제33조_제4항,주택임대차보호법시행령_제33조_제3항,REFERENCES,제3항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제34조,주택임대차보호법_제26조_제4항,REFERENCES,법 제26조제4항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제34조_제5호,주택임대차보호법_제26조_제4항,REFERENCES,법 제26조제4항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제35조_제2항,주택임대차보호법_제26조_제4항,REFERENCES,법 제26조제4항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제3조,주택임대차보호법_제3조의6,REFERENCES,법 제3조의6,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제4조_제1항,주택임대차보호법_제3조의6_제1항,REFERENCES,법 제3조의6제1항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제4조_제1항,주택임대차보호법_제3조의6_제2항,REFERENCES,같은 조 제2항,1,SAME_UNIT,False,True,False,rule_v2
+주택임대차보호법시행령_제4조_제3항,주택임대차보호법시행령_제4조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제4조_제3항,주택임대차보호법시행령_제4조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법시행령_제5조,주택임대차보호법_제3조의6_제3항,REFERENCES,법 제3조의6제3항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제5조_제4호,주택임대차보호법_제3조의2_제7항,REFERENCES,법 제3조의2제7항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제5조_제5호,주택임대차보호법_제6조의3_제1항_제8호,REFERENCES,법 제6조의3제1항제8호,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제5조_제6호,주택임대차보호법시행령_제5조_제1호,REFERENCES,제1호부터 제5호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제5조_제6호,주택임대차보호법시행령_제5조_제2호,REFERENCES,제1호부터 제5호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제5조_제6호,주택임대차보호법시행령_제5조_제3호,REFERENCES,제1호부터 제5호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제5조_제6호,주택임대차보호법시행령_제5조_제4호,REFERENCES,제1호부터 제5호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제5조_제6호,주택임대차보호법시행령_제5조_제5호,REFERENCES,제1호부터 제5호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제6조_제1항,주택임대차보호법_제3조의6_제3항,REFERENCES,법 제3조의6제3항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제6조_제1항,주택임대차보호법시행령_제5조_제1호,REFERENCES,제5조제1호,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제6조_제1항,주택임대차보호법시행령_제5조_제5호,REFERENCES,제5조제5호 | 제5호,2,CHAINED;INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제6조_제1항_제2호,주택임대차보호법시행령_제5조_제5호,REFERENCES,제5조제5호,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제6조_제2항,주택임대차보호법_제3조의6_제3항,REFERENCES,법 제3조의6제3항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제6조_제2항,주택임대차보호법_제3조의6_제4항,REFERENCES,제4항,1,CHAINED,False,True,False,rule_v2
+주택임대차보호법시행령_제6조_제2항,주택임대차보호법시행령_제5조_제2호,REFERENCES,제5조제2호부터 제4호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제6조_제2항,주택임대차보호법시행령_제5조_제3호,REFERENCES,제5조제2호부터 제4호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제6조_제2항,주택임대차보호법시행령_제5조_제4호,REFERENCES,제5조제2호부터 제4호까지,1,RANGE,True,False,False,rule_v2
+주택임대차보호법시행령_제6조_제2항,주택임대차보호법시행령_제5조_제6호,REFERENCES,제6호,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법시행령_제6조_제3항,주택임대차보호법시행령_제6조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제6조_제3항,주택임대차보호법시행령_제6조_제2항,REFERENCES,제2항,1,CHAINED,False,False,False,rule_v2
+주택임대차보호법시행령_제7조_제1항,주택임대차보호법_제3조의6_제5항,REFERENCES,법 제3조의6제5항,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제7조_제2항,주택임대차보호법시행령_제7조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제8조_제1항,주택임대차보호법_제7조,REFERENCES,법 제7조,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제8조_제2항,주택임대차보호법시행령_제8조_제1항,REFERENCES,제1항,1,INTERNAL,False,False,False,rule_v2
+주택임대차보호법시행령_제9조_제1항,주택임대차보호법_제7조의2_제1호,REFERENCES,법 제7조의2제1호,1,PARENT_LAW,False,True,False,rule_v2
+주택임대차보호법시행령_제9조_제2항,주택임대차보호법_제7조의2_제2호,REFERENCES,법 제7조의2제2호,1,PARENT_LAW,False,True,False,rule_v2
