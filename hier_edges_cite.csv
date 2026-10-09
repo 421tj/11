@@ -1,0 +1,413 @@
+﻿source_id,target_id,rel_type,mentions,mention_count,reference_types,via_range_only,method
+GUIDE_001,민법_제303조,CITES,「민법」 제303조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_001,민법_제618조,CITES,제618조,1,CHAINED,False,rule_v2_guide
+GUIDE_002,민법_제303조,CITES,「민법」 제303조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_003,민법_제618조,CITES,「민법」 제618조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_003,주택임대차보호법_제2조,CITES,「주택임대차보호법」 제2조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_004,민법_제303조_제1항,CITES,「민법」 제303조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_004,민법_제306조,CITES,「민법」 제306조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_004,민법_제618조,CITES,「민법」 제618조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_004,민법_제629조,CITES,「민법」 제629조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_004,주택임대차보호법_제10조,CITES,「주택임대차보호법」 제10조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_004,주택임대차보호법_제1조,CITES,「주택임대차보호법」 제1조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_004,주택임대차보호법_제2조,CITES,제2조,1,CHAINED,False,rule_v2_guide
+GUIDE_005,주택임대차보호법_제1조,CITES,「주택임대차보호법」 제1조,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_006,주택임대차보호법_제3조_제2항,CITES,「주택임대차보호법」 제3조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_006,주택임대차보호법_제3조_제3항,CITES,「주택임대차보호법」 제3 조제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_006,주택임대차보호법시행령_제2조,CITES,「주택임대차보호법 시행령」 제2조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_007,주택임대차보호법_제2조,CITES,「주택임대차보호법」 제2조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_008,주택임대차보호법_제12조,CITES,「주택임대차보호법」제12조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_008,주택임대차보호법_제3조의4_제1항,CITES,「주택임대차보호법」제3조의4제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_009,주택임대차보호법_제11조,CITES,「주택임대차보호법」제11조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_013,주택임대차보호법_제3조의3_제6항,CITES,「주택임대차보호법」 제3조의3제6항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_015,주택임대차보호법_제3조의6_제1항,CITES,「주택임대차보호법」 제3조의6제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_015,주택임대차보호법_제3조의6_제4항,CITES,「주택임대차보호법」 제3조의6제4항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_015,주택임대차보호법_제3조의7,CITES,「주택임대차보호법」 제3 조의7,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_015,주택임대차보호법시행령_제6조_제2항,CITES,「주택임대차보호법 시행령」 제6조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_024,주택임대차보호법_제4조_제1항,CITES,「주택임대차보호법」 제4조제1항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_031,주택임대차보호법_제3조의7,CITES,「주택임대차보호법」 제3조의7,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_045,주택임대차보호법_제3조_제1항,CITES,「주택임대차보호법」 제3조제1항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_046,주택임대차보호법_제3조_제1항,CITES,「주택임대차보호법」 제3조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_047,주택임대차보호법_제3조_제1항,CITES,「주택임대차보호법」 제3조제1항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_047,주택임대차보호법_제3조_제2항,CITES,「주택임대차보호법」 제3조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_048,주택임대차보호법_제3조의2_제2항,CITES,「주택임대차보호법」 제3조의2제2항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_049,주택임대차보호법_제3조의6_제1항,CITES,「주택임대차보호법」 제3 조의6제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_049,주택임대차보호법시행령_제4조_제1항,CITES,「주택임대차보호법 시행령」 제4조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_050,주택임대차보호법_제3조의6_제3항,CITES,「주택임대차보호법」 제3조의6제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_050,주택임대차보호법시행령_제5조,CITES,「주택임대차보호법 시행령」제5조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_050,주택임대차보호법시행령_제6조,CITES,제6조,1,CHAINED,False,rule_v2_guide
+GUIDE_052,민법_제621조_제1항,CITES,「민법」 제621조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_052,주택임대차보호법_제3조_제1항,CITES,「주택임대차보호법」 제3조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_052,주택임대차보호법_제3조의2_제2항,CITES,제3조의2제2항,1,CHAINED,False,rule_v2_guide
+GUIDE_053,주택임대차보호법_제3조의3_제5항,CITES,제3조의3제5항,1,CHAINED,False,rule_v2_guide
+GUIDE_053,주택임대차보호법_제3조의3_제6항,CITES,제3조의3제6항,1,CHAINED,False,rule_v2_guide
+GUIDE_053,주택임대차보호법_제3조의4_제1항,CITES,「주택임대차보호법」 제3조의4제1항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_054,민법_제621조_제1항,CITES,「민법」 제621조제1항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_054,주택임대차보호법_제3조의4_제2항,CITES,「주택임대차보호법」 제3조의4제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_076,민법_제618조,CITES,「민법」 제618조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_076,민법_제633조,CITES,「민법」 제633조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_076,민법_제640조,CITES,「민법」 제640조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_076,민법_제652조,CITES,「민법」 제652조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_076,민법_제654조,CITES,제654조,1,CHAINED,False,rule_v2_guide
+GUIDE_076,주택임대차보호법_제7조_제1항,CITES,「주택임대차보호법」 제7조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_077,주택임대차보호법_제7조_제1항,CITES,「주택임대차보호법」 제7조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_077,주택임대차보호법_제7조_제2항,CITES,「주택임대차보호법」 제7조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_078,주택임대차보호법_제7조의2,CITES,「주택임대차보호법」 제7조의2,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_078,주택임대차보호법시행령_제9조,CITES,「주택임대차보호법 시행령」 제9조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_079,주택임대차보호법_제7조_제1항,CITES,「주택임대차보호법」 제7조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_080,민법_제312조의2,CITES,「민법」 제312조의2,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_080,민법_제628조,CITES,제628조,1,CHAINED,False,rule_v2_guide
+GUIDE_080,민법_제652조,CITES,「민법」 제652조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_080,주택임대차보호법_제10조,CITES,「주택임대차보호법」 제10조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_081,민법_제618조,CITES,「민법」 제 618조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_081,민법_제621조_제2항,CITES,「민법」 제621조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_081,주택임대차보호법_제3조,CITES,「주택임대보호법」 제3조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_082,민법_제621조_제1항,CITES,「민법」 제621조제1항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_082,주택임대차보호법_제3조의3_제1항,CITES,「주택임대차보호법」 제3조의3제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_082,주택임대차보호법_제3조의4,CITES,「주택임대차보호법」 제3조의4,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_083,민법_제627조,CITES,「민법」 제627조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_083,민법_제628조,CITES,제628조,1,CHAINED,False,rule_v2_guide
+GUIDE_083,민법_제652조,CITES,「민법」 제652조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_083,주택임대차보호법_제10조,CITES,「주택임대차보호법」 제10조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_083,주택임대차보호법_제7조_제1항,CITES,「주택임대차보호법」 제7조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_084,민법_제646조,CITES,「민법」 제646조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_084,민법_제654조,CITES,「민법」 제654조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_085,민법_제203조_제1항,CITES,「민법」 제203조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_085,민법_제203조_제2항,CITES,「민법」 제203조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_085,민법_제309조,CITES,「민법」 제309조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_085,민법_제618조,CITES,제618조,1,CHAINED,False,rule_v2_guide
+GUIDE_085,민법_제626조_제1항,CITES,「민법」 제626조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_085,민법_제626조_제2항,CITES,「민법」 제626조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_086,민법_제618조,CITES,「민법」 제618조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_087,민법_제624조,CITES,「민법」 제624조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_087,민법_제625조,CITES,제625조,1,CHAINED,False,rule_v2_guide
+GUIDE_087,민법_제634조,CITES,「민법」 제634조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_087,민법_제654조,CITES,제654조,1,CHAINED,False,rule_v2_guide
+GUIDE_088,민법_제654조,CITES,제654조,1,CHAINED,False,rule_v2_guide
+GUIDE_089,민법_제618조,CITES,「민법」 제618조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_090,주택임대차보호법_제7조_제1항,CITES,「주택임대차보호법」 제7조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_091,민법_제618조,CITES,제618조,1,CHAINED,False,rule_v2_guide
+GUIDE_091,민법_제624조,CITES,「민법」 제624조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_091,민법_제654조,CITES,제654조,1,CHAINED,False,rule_v2_guide
+GUIDE_092,민법_제618조,CITES,「민법」 제618조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_092,민법_제623조,CITES,「민법」 제623조,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_092,민법_제627조,CITES,「민법」 제627조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_093,민법_제214조,CITES,「민법」 제214조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_093,민법_제623조,CITES,제623조,1,CHAINED,False,rule_v2_guide
+GUIDE_095,민법_제629조,CITES,「민법」 제629조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_095,민법_제652조,CITES,「민법」 제652조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_097,주택임대차보호법_제3조_제1항,CITES,「주택임대차보호법」 제3조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_099,민법_제629조_제2항,CITES,「민법」 제629조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_100,민법_제213조,CITES,「민법」 제213조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_100,민법_제214조,CITES,제214조,1,CHAINED,False,rule_v2_guide
+GUIDE_100,민법_제306조,CITES,「민법」 제306조,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_102,민법_제629조,CITES,「민법」 제 629 조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_102,민법_제652조,CITES,「민법」 제 652 조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_104,민법_제630조_제2항,CITES,「민법」 제 630 조 제 2 항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_105,민법_제630조_제1항,CITES,「민법」 제 630 조 제 1 항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_105,민법_제631조,CITES,「민법」 제 631 조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_105,민법_제638조,CITES,「민법」 제 638 조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_105,민법_제647조,CITES,「민법」 제 647 조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_106,주택임대차보호법_제3조_제1항,CITES,「주택임대차보호법」 제3조 제1항 | 「주택임대차보호법」 제3조제1항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_106,주택임대차보호법_제3조의2_제2항,CITES,「주택임대차보호법」 제3조의2제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_106,주택임대차보호법_제8조_제1항,CITES,제8조제1항,1,CHAINED,False,rule_v2_guide
+GUIDE_107,민법_제213조,CITES,「민법」 제213조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_107,민법_제214조,CITES,제214조,1,CHAINED,False,rule_v2_guide
+GUIDE_107,민법_제629조_제2항,CITES,「민법」 제629조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_109,민법_제629조,CITES,「민법」 제629조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_109,민법_제630조_제1항,CITES,「민법」 제630조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_109,민법_제631조,CITES,「민법」 제631조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_109,민법_제632조,CITES,「민법」 제632조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_109,민법_제652조,CITES,「민법」 제652조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_111,민법_제186조,CITES,「민법」 제186조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_111,민법_제306조,CITES,「민법」 제306조,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_112,민법_제303조_제1항,CITES,「민법」 제303조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_112,민법_제308조,CITES,「민법」 제308조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_112,민법_제317조,CITES,「민법」 제317조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_112,민법_제318조,CITES,「민법」 제318조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_113,주택임대차보호법_제9조_제1항,CITES,「주택임대차보호법」 제9조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_113,주택임대차보호법_제9조_제2항,CITES,「주택임대차보호법」 제9조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_114,주택임대차보호법_제9조_제3항,CITES,「주택임대차보호법」 제9조제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_115,주택임대차보호법_제9조_제4항,CITES,「주택임대차보호법」 제9조제4항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_116,주택임대차보호법_제10조,CITES,「주택임대차보호법」 제10조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_116,주택임대차보호법_제3조_제4항,CITES,「주택임대차보호법」 제3조제4항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_117,주택임대차보호법_제4조_제2항,CITES,「주택임대차보호법」 제4조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_118,주택임대차보호법_제3조_제1항,CITES,「주택임대차보호법」 제3 조제1항 | 「주택임대차보호법」 제3조제1항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_118,주택임대차보호법_제3조_제3항,CITES,제3항,1,CHAINED,False,rule_v2_guide
+GUIDE_118,주택임대차보호법_제3조_제4항,CITES,제4항,1,CHAINED,False,rule_v2_guide
+GUIDE_119,주택임대차보호법_제6조_제1항,CITES,「주택임대차보호법」 제6조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_119,주택임대차보호법_제6조_제3항,CITES,「주택임대차보호법」 제6조제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_120,주택임대차보호법_제4조_제1항,CITES,「주택임대차보호법」 제4 조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_120,주택임대차보호법_제6조_제1항,CITES,「주택임대차보호법」 제6조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_120,주택임대차보호법_제6조_제2항,CITES,제6조제2항,1,CHAINED,False,rule_v2_guide
+GUIDE_121,민법_제187조,CITES,「민법」 제187조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_121,민법_제312조_제4항,CITES,「민법」 제312조제4항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_121,민법_제313조,CITES,「민법」 제313조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_121,주택임대차보호법_제4조_제1항,CITES,「주택임대차보호법」 제4조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_121,주택임대차보호법_제6조의2_제1항,CITES,제6조의2제1항,1,CHAINED,False,rule_v2_guide
+GUIDE_121,주택임대차보호법_제6조의2_제2항,CITES,「주택임대차보호법」 제6조의2제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_122,주택임대차보호법_제6조_제1항,CITES,제6조제1항,1,CHAINED,False,rule_v2_guide
+GUIDE_122,주택임대차보호법_제6조의2,CITES,「주택임대차보호법」 제6조의2,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_122,주택임대차보호법_제6조의3_제1항,CITES,「주택임대차보호법」 제6조의3제1항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_122,주택임대차보호법_제6조의3_제2항,CITES,「주택임대차보호법」 제6조의3제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_122,주택임대차보호법_제6조의3_제3항,CITES,「주택임대차보호법」 제6조의3제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_122,주택임대차보호법_제6조의3_제4항,CITES,「주택임대차보호법」 제6조의3제4항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_122,주택임대차보호법_제6조의3_제5항,CITES,「주택임대차보호법」 제6조의3제5항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_122,주택임대차보호법_제6조의3_제6항,CITES,「주택임대차보호법」 제6조의3제6항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_122,주택임대차보호법_제7조,CITES,「주택임대차보호법」 제7조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_122,주택임대차보호법_제7조의2,CITES,「주택임대차보호법」 제7조의2,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_124,민법_제636조,CITES,「민법」 제 636조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_124,민법_제637조,CITES,제 637조,1,CHAINED,False,rule_v2_guide
+GUIDE_124,주택임대차보호법_제6조_제1항,CITES,「주택임대차보호법」 제 6 조제 1 항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_125,민법_제635조,CITES,「민법」 제 635 조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_125,민법_제636조,CITES,제 636 조,1,CHAINED,False,rule_v2_guide
+GUIDE_125,주택임대차보호법_제4조_제1항,CITES,「주택임대차보호법」 제 4 조제 1 항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_125,주택임대차보호법_제6조의2,CITES,제 6 조의 2,1,CHAINED,False,rule_v2_guide
+GUIDE_126,민법_제637조_제1항,CITES,「민법」 제 637 조제 1 항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_126,민법_제637조_제2항,CITES,「민법」 제 637 조제 2 항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_128,민법_제625조,CITES,「민법」 제625조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_128,민법_제627조,CITES,「민법」 제627조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_129,민법_제629조_제2항,CITES,「민법」 제629조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_129,민법_제640조,CITES,「민법」 제640조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_129,민법_제654조,CITES,「민법」 제654조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_129,주택임대차보호법_제6조_제3항,CITES,「주택임대차보호법」 제6 조제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_130,민법_제550조,CITES,「민법」 제550조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_130,민법_제551조,CITES,「민법」 제551조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_131,민법_제536조,CITES,「민법」 제536조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_131,주택임대차보호법_제3조의2_제1항,CITES,「주택임대차보호법」 제3조의2제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_131,주택임대차보호법_제4조_제2항,CITES,「주택임대차보호법」 제4 조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_132,주택임대차보호법_제3조의3_제5항,CITES,「주택임대차보호법」 제3조의3제5항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_133,민법_제626조_제2항,CITES,「민법」 제626조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_133,민법_제646조,CITES,제646조,1,CHAINED,False,rule_v2_guide
+GUIDE_135,민법_제311조,CITES,「민법」 제311조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_135,민법_제313조,CITES,「민법」 제313조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_136,민법_제311조_제1항,CITES,「민법」 제311조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_136,민법_제314조,CITES,「민법」 제314조,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_136,민법_제315조,CITES,「민법」 제315조,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_137,민법_제371조_제2항,CITES,「민법」 제371조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_139,민법_제625조,CITES,「민법」 제 625조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_139,민법_제627조,CITES,「민법」 제 627조,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_139,민법_제635조_제2항,CITES,「민법」 제 635조제2항제1호,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_139,주택임대차보호법_제3조의3_제1항,CITES,「주택임대차보호법」 제3 조의3제1항 | 「주택임대차보호법」 제3조의3제1항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_139,주택임대차보호법_제3조의3_제2항,CITES,「주택임대차보호법」 제3 조의3제2항제2호,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_139,주택임대차보호법_제6조의2,CITES,「주택임대차보호법」 제6조의2,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_142,주택임대차보호법_제3조의3_제3항,CITES,「주택임대차보호법」 제3조의3제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_142,주택임대차보호법_제3조의3_제4항,CITES,「주택임대차보호법」 제3 조의3제4항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_142,주택임대차보호법_제3조의3_제8항,CITES,「주택임대차보호법」 제3조의3제8항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_143,주택임대차보호법_제3조의3_제5항,CITES,「주택임대차보호법」 제3조의3제5항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_144,주택임대차보호법_제3조의3_제5항,CITES,「주택임대차보호법」 제3조의3제5항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_145,주택임대차보호법_제3조의3_제6항,CITES,「주택임대차보호법」 제3조의3제6항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_146,민사집행법_제246조_제1항,CITES,「민사집행법」 제246조제1항제6호,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_146,주택임대차보호법_제3조_제1항,CITES,「주택임대차보호법」 제3조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_146,주택임대차보호법_제8조_제1항,CITES,제8조제1항,1,CHAINED,False,rule_v2_guide
+GUIDE_147,민사집행규칙_제48조,CITES,「민사집행규칙」 제48조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_147,민사집행법_제88조_제1항,CITES,「민사집행법」 제88조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_147,주택임대차보호법_제3조_제1항,CITES,「주택임대차보호법」 제3조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_147,주택임대차보호법_제3조의2_제4항,CITES,「주택임대차보호법」 제3조의2제4항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_147,주택임대차보호법_제8조_제1항,CITES,제8조제1항,1,CHAINED,False,rule_v2_guide
+GUIDE_147,주택임대차보호법_제8조_제2항,CITES,제8조제2항,1,CHAINED,False,rule_v2_guide
+GUIDE_147,주택임대차보호법_제8조_제3항,CITES,「주택임대차보호법」 제8조제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_147,주택임대차보호법_제8조의2,CITES,제8조의2,1,CHAINED,False,rule_v2_guide
+GUIDE_147,주택임대차보호법시행령_제11조,CITES,「주택임대차보호법 시행령」 제11조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_148,주택임대차보호법_제3조_제1항,CITES,「주택임대차보호법」 제3조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_148,주택임대차보호법_제8조_제1항,CITES,제8조제1항,1,CHAINED,False,rule_v2_guide
+GUIDE_148,주택임대차보호법시행령_제10조_제1항,CITES,「주택임대차보호법 시행령」 제10조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_148,주택임대차보호법시행령_제10조_제2항,CITES,제2항,1,CHAINED,False,rule_v2_guide
+GUIDE_148,주택임대차보호법시행령_제10조_제3항,CITES,「주택임대차보호법 시행령」 제10조제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_149,주택임대차보호법_제3조의3_제6항,CITES,「주택임대차보호법」 제3조의3제6항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_150,주택임대차보호법_제3조의2_제1항,CITES,「주택임대차보호법」 제3조의2제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_152,주택임대차보호법_제21조,CITES,「주택임대차보호법」 제21조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_153,주택임대차보호법_제21조_제3항,CITES,법 제21조 제3항,1,PARENT_LAW,False,rule_v2_guide
+GUIDE_153,주택임대차보호법_제25조_제1항,CITES,법 제25조 제1항,1,PARENT_LAW,False,rule_v2_guide
+GUIDE_169,주택임대차보호법_제3조의2_제1항,CITES,「주택임대차보호법」 제3조의2제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_171,주택임대차보호법_제13조,CITES,「주택임대차보호법」 제13조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_173,주택임대차보호법_제3조의2_제1항,CITES,「주택임대차보호법」 제3조의2제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_174,주택임대차보호법_제3조의2_제2항,CITES,「주택임대차보호법」 제3조의2제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_174,주택임대차보호법_제8조_제1항,CITES,제8 조제1항,1,CHAINED,False,rule_v2_guide
+GUIDE_175,주택임대차보호법_제3조의2_제3항,CITES,「주택임대차보호법」 제3조의2제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_176,민사집행법_제78조,CITES,「민사집행법」 제78조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_178,민사집행법_제79조_제1항,CITES,「민사집행법」 제79조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_178,민사집행법_제80조,CITES,제80조,1,CHAINED,False,rule_v2_guide
+GUIDE_178,민사집행법_제81조_제1항,CITES,「민사집행법」 제81조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_179,민사집행법_제83조_제1항,CITES,「민사집행법」 제83조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_179,민사집행법_제83조_제4항,CITES,「민사집행법」 제83조제4항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_179,민사집행법_제94조,CITES,「민사집행법」 제94조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_180,민사집행규칙_제91조_제1항,CITES,「민사집행규칙」 제91조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_180,민사집행법_제148조,CITES,「민사집행법」 제148조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_180,민사집행법_제84조_제1항,CITES,「민사집행법」 제84조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_180,민사집행법_제84조_제2항,CITES,제2항,1,CHAINED,False,rule_v2_guide
+GUIDE_180,민사집행법_제84조_제3항,CITES,제3항,1,CHAINED,False,rule_v2_guide
+GUIDE_180,민사집행법_제88조_제1항,CITES,「민사집행법」 제88조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_181,민사집행법_제105조_제1항,CITES,「민사집행법」 제105조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_181,민사집행법_제84조_제4항,CITES,「민사집행법」 제84조제4항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_181,민사집행법_제85조_제1항,CITES,「민사집행법」 제85조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_181,민사집행법_제97조,CITES,「민사집행법」 제97조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_182,민사집행법_제105조_제2항,CITES,「민사집행법」 제105조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_183,민사집행규칙_제56조,CITES,「민사집행규칙」 제56조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_183,민사집행규칙_제9조,CITES,「민사집행규칙」 제9조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_183,민사집행법_제104조,CITES,「민사집행법」 제104조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_183,민사집행법_제104조_제1항,CITES,「민사집행법」 제104조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_183,민사집행법_제104조_제2항,CITES,「민사집행법」 제104조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_183,민사집행법_제104조_제3항,CITES,「민사집행법」 제104조제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_183,민사집행법_제106조,CITES,제106조,1,CHAINED,False,rule_v2_guide
+GUIDE_183,민사집행법_제109조_제1항,CITES,「민사집행법」 제109조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_184,민사집행규칙_제66조,CITES,「민사집행규칙」 제66조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_184,민사집행규칙_제76조,CITES,「민사집행규칙」 제76조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_184,민사집행법_제103조_제2항,CITES,「민사집행법」 제103조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_184,민사집행법_제112조,CITES,「민사집행법」 제112조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_184,민사집행법_제113조,CITES,「민사집행법」 제113조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_184,민사집행법_제115조_제3항,CITES,「민사집행법」 제115조제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_184,민사집행법_제120조,CITES,「민사집행법」 제 120조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_184,민사집행법_제123조,CITES,제123조,1,CHAINED,False,rule_v2_guide
+GUIDE_184,민사집행법_제129조,CITES,「민사집행법」 제129조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_184,민사집행법_제130조,CITES,제130조,1,CHAINED,False,rule_v2_guide
+GUIDE_185,민사집행법_제142조_제1항,CITES,「민사집행법」 제142조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_185,민사집행법_제142조_제2항,CITES,제2항,1,CHAINED,False,rule_v2_guide
+GUIDE_185,민사집행법_제142조_제3항,CITES,「민사집행법」 제142조제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_186,민사집행법_제145조,CITES,「민사집행법」 제145조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_186,민사집행법_제148조,CITES,「민사집행법」 제148조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_186,민사집행법_제149조,CITES,「민사집행법」 제149조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_186,민사집행법_제150조,CITES,제150조,1,CHAINED,False,rule_v2_guide
+GUIDE_186,민사집행법_제152조,CITES,「민사집행법」 제152조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_187,민사집행법_제135조,CITES,「민사집행법」 제135조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_187,민사집행법_제136조,CITES,「민사집행법」 제136조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_188,민사집행법_제145조,CITES,「민사집행법」 제145조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_189,민사집행법_제88조_제1항,CITES,「민사집행법」 제88조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_189,주택임대차보호법_제3조의2_제2항,CITES,「주택임대차보호법」 제3조의2제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_189,주택임대차보호법_제8조,CITES,제8조,1,CHAINED,False,rule_v2_guide
+GUIDE_190,민사집행규칙_제91조_제1항,CITES,「민사집행규칙」 제91조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_190,민사집행법_제84조_제1항,CITES,「민사집행법」 제84조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_191,민사집행규칙_제48조,CITES,「민사집행규칙」 제48조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_192,민사집행법_제145조_제2항,CITES,「민사집행법」 제145조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_193,주택임대차보호법_제3조의2_제2항,CITES,「주택임대차보호법」 제3조의2제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_193,주택임대차보호법_제8조_제1항,CITES,「주택임대차보호법」 제8조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_194,민사집행규칙_제91조_제1항,CITES,「민사집행규칙」 제91 조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_194,민사집행법_제148조,CITES,「민사집행법」 제148 조제2호 | 「민사집행법」 제148 조제3호,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_195,민사집행법_제146조,CITES,「민사집행법」 제146 조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_196,민사집행법_제149조_제1항,CITES,「민사집행법」 제149 조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_196,민사집행법_제149조_제2항,CITES,「민사집행법」 제149조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_197,민사집행법_제151조_제1항,CITES,「민사집행법」 제151조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_197,민사집행법_제151조_제2항,CITES,제2항,1,CHAINED,False,rule_v2_guide
+GUIDE_197,민사집행법_제151조_제3항,CITES,「민사집행법」 제151조제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_198,민사집행법_제153조_제1항,CITES,「민사집행법」 제153조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_199,주택임대차보호법_제3조의2_제2항,CITES,「주택임대차보호법」 제3조의2제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_199,주택임대차보호법_제3조의3,CITES,「주택임대차보호법」 제3조의3,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_199,주택임대차보호법_제8조,CITES,제8조,1,CHAINED,False,rule_v2_guide
+GUIDE_200,주택임대차보호법_제3조_제1항,CITES,「주택임대차보호법」 제3조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_200,주택임대차보호법_제3조의2_제2항,CITES,제3조의2제2항,1,CHAINED,False,rule_v2_guide
+GUIDE_202,주택임대차보호법_제3조의5,CITES,「주택임대차보호법」 제3 조의5,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_203,민법_제536조,CITES,「민법」 제536조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_203,주택임대차보호법_제3조의2_제2항,CITES,「주택임대차보호법」 제3조의2제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_203,주택임대차보호법_제3조의2_제3항,CITES,「주택임대차보호법」 제3조의2제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_209,민법_제626조_제2항,CITES,「민법」 제626조제2항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_210,민법_제626조_제2항,CITES,「민법」 제626조제2항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_210,민법_제654조,CITES,「민법」 제654조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_211,민법_제652조,CITES,「민법」 제652조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_212,민법_제320조_제1항,CITES,「민법」 제 320조제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_213,민법_제646조,CITES,「민법」 제646조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_214,민법_제647조,CITES,「민법」 제647조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_220,민법_제652조,CITES,「민법」 제 652조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_224,주택임대차보호법_제4조_제1항,CITES,주택임대차보호법 제4조 제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_224,주택임대차보호법_제7조,CITES,주택임대차보호법 제7조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_225,주택임대차보호법_제7조,CITES,임대차보호법 제7조 | 주택임대차보호법 제7조,3,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_226,주택임대차보호법_제6조_제1항,CITES,주택임대차보호법 제6조 제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_226,주택임대차보호법_제7조,CITES,주택임대차보호법 제7조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_227,주택임대차보호법_제4조,CITES,주택임대차보호법 제4조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_227,주택임대차보호법_제4조_제1항,CITES,주택임대차보호법 제4조 제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_229,주택임대차보호법_제4조_제1항,CITES,주택임대차보호법 제4조 제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_230,주택임대차보호법_제4조_제1항,CITES,「주택임대차보호법」제4조 제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_231,주택임대차보호법_제4조_제1항,CITES,주택임대차보호법 제4조 제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_232,주택임대차보호법_제6조,CITES,주택임대차보호법 제6조,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_232,주택임대차보호법_제7조,CITES,주택임대차보호법 제7조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_233,민법_제654조,CITES,민법 제654조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_234,주택임대차보호법_제3조_제1항,CITES,주택임대차보호법 제3조 제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_234,주택임대차보호법_제3조의2_제2항,CITES,주택임대차보호법 제3조의2 제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_236,주택임대차보호법_제3조_제1항,CITES,주택임대차보호법 제3조 제1항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_236,주택임대차보호법_제3조_제2항,CITES,제2항,1,CHAINED,False,rule_v2_guide
+GUIDE_236,주택임대차보호법_제3조_제3항,CITES,제3항,1,CHAINED,False,rule_v2_guide
+GUIDE_236,주택임대차보호법_제3조의2_제2항,CITES,주택임대차보호법 제3조의2 제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_236,주택임대차보호법_제3조의3,CITES,주택임대차보호법 제3조의3,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_237,주택임대차보호법_제3조_제1항,CITES,주택임대차보호법 제3조 제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_237,주택임대차보호법_제3조_제2항,CITES,제2항,1,CHAINED,False,rule_v2_guide
+GUIDE_237,주택임대차보호법_제3조_제3항,CITES,제 3항,1,CHAINED,False,rule_v2_guide
+GUIDE_237,주택임대차보호법_제3조의2_제2항,CITES,주택임대차보호법 제3조의2 제2항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_239,주택임대차보호법_제3조의5,CITES,주택임대차보호법 제3조의5,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_241,민법_제623조,CITES,민법 제623조,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_242,민법_제623조,CITES,민법 제623조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_242,민법_제626조_제1항,CITES,민법 제626조 제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_243,민법_제623조,CITES,민법 제623조,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_244,민법_제654조,CITES,민법 제654조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_245,민법_제309조,CITES,민법 제309조,3,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_245,민법_제623조,CITES,민법 제623조,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_245,민법_제626조,CITES,제626조,1,CHAINED,False,rule_v2_guide
+GUIDE_246,민법_제627조,CITES,민법 제627조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_247,주택임대차보호법_제3조_제4항,CITES,주택임대차보호법 제3조 제4항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_248,주택임대차보호법_제6조의3_제2항,CITES,「주택임대차보호법」제6조의3 제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_250,주택임대차보호법_제6조의3_제1항,CITES,주택임대차보호법 제6조의3 제1항 제1호,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_251,주택임대차보호법_제6조의3_제1항,CITES,주택임대차보호법 제6조의3 제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_253,주택임대차보호법_제2조,CITES,주택임대차보호법 제2조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_253,주택임대차보호법_제4조_제1항,CITES,주택임대차보호법 제4조 제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_254,주택임대차보호법시행령_제35조,CITES,「주택임대차보호법 시행령」 제 35조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_255,주택임대차보호법_제6조의3_제1항,CITES,주택임대차보호법 제6조의3 제1항 제1호부터 제8호까지 | 주택임대차보호법 제6조의3 제1항 제9호,9,EXPLICIT_LAW;RANGE,False,rule_v2_guide
+GUIDE_257,민법_제640조,CITES,민법 제640조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_258,주택임대차보호법_제6조의3_제5항,CITES,주택임대차보호법 제6조의3 제5항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_259,주택임대차보호법_제6조의3_제1항,CITES,주택임대차보호법 제6조의3 제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_259,주택임대차보호법_제6조의3_제5항,CITES,주택임대차보호법 제6조의3 제5항,3,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_260,주택임대차보호법_제6조의3_제1항,CITES,임대차보호법 제6조의3 제1항 | 제6조의3 제1항,2,EXPLICIT_LAW;INTERNAL,False,rule_v2_guide
+GUIDE_260,주택임대차보호법_제6조의3_제5항,CITES,주택임대차보호법 제6조의3 제5항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_261,민법_제623조,CITES,민법 제623조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_263,주택임대차보호법_제6조의2,CITES,주택임대차보호법 제6조의2,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_263,주택임대차보호법_제6조의3_제4항,CITES,제6조의 3 제4항,1,CHAINED,False,rule_v2_guide
+GUIDE_265,민법_제618조,CITES,민법 제618조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_266,주택임대차보호법_제8조,CITES,주택임대차보호법 제8조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_267,주택임대차보호법_제8조,CITES,주택임대차보호법 제8조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_278,주택임대차보호법_제10조,CITES,「주택임대차보호법」제10조 | 법 제10조,2,EXPLICIT_LAW;PARENT_LAW,False,rule_v2_guide
+GUIDE_282,주택임대차보호법_제4조,CITES,「주택임대차보호법」 제4조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_284,주택임대차보호법_제6조의3_제1항,CITES,주임법 제6조의3제1항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_287,주택임대차보호법시행령_제5조,CITES,「주택임대차보호법 시행령」 제5조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_288,주택임대차보호법_제6조의3_제5항,CITES,주택임대차보호법 제6조의3제5항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_292,주택임대차보호법_제7조,CITES,「주택임대차보호법」 제7조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_292,주택임대차보호법_제7조_제2항,CITES,법 제7조제2항,1,PARENT_LAW,False,rule_v2_guide
+GUIDE_294,주택임대차보호법_제10조,CITES,주택임대차보호법 제10조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_294,주택임대차보호법_제10조의2,CITES,같은 법 제10조의2,1,SAME_LAW,False,rule_v2_guide
+GUIDE_297,주택임대차보호법_제3조_제2항,CITES,「주택임대차보호법」제3조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_297,주택임대차보호법_제3조_제3항,CITES,「주택임대차보호법」제3조제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_297,주택임대차보호법시행령_제2조,CITES,「주택임대차보호법 시행령」 제2조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_299,민법_제618조,CITES,「민법」제618조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_299,주택임대차보호법_제10조,CITES,「주택임대차보호법」제10조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_299,주택임대차보호법_제1조,CITES,「주택임대차보호법」제1조,3,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_300,주택임대차보호법_제1조,CITES,「주택임대차보호법」제1조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_300,주택임대차보호법_제3조_제2항,CITES,「주택임대차보호법」제3조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_300,주택임대차보호법_제3조_제3항,CITES,「주택임대차보호법」제3조제3항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_300,주택임대차보호법시행령_제2조,CITES,「주택임대차보호법 시행령」 제2조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_301,주택임대차보호법_제2조,CITES,「주택임대차보호법」제2조 | 주택임대차보호법 제2조,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_302,민법_제618조,CITES,「민법」제618조 | 제618조,2,CHAINED;EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_302,민법_제624조,CITES,「민법」제624조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_302,민법_제654조,CITES,제654조,1,CHAINED,False,rule_v2_guide
+GUIDE_302,주택임대차보호법_제11조,CITES,「주택임대차보호법」제11조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_302,주택임대차보호법_제7조,CITES,「주택임대차보호법」제7조,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_303,민법_제618조,CITES,「민법」제618조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_303,민법_제623조,CITES,「민법」제623조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_304,민법_제618조,CITES,「민법」제618조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_304,민법_제621조_제2항,CITES,「민법」제621조제2항,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_304,민법_제627조,CITES,「민법」제627조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_304,주택임대차보호법_제3조,CITES,「주택임대차보호법」제3조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_305,민법_제618조,CITES,「민법」제618조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_305,민법_제627조,CITES,「민법」제627조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_305,민법_제628조,CITES,제628조,1,CHAINED,False,rule_v2_guide
+GUIDE_305,민법_제652조,CITES,「민법」제652조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_305,민법_제654조,CITES,제654조,1,CHAINED,False,rule_v2_guide
+GUIDE_305,주택임대차보호법_제10조,CITES,「주택임대차보호법」제10조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_305,주택임대차보호법_제4조_제1항,CITES,「주택임대차보호법」제4조제1항,2,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_305,주택임대차보호법_제7조,CITES,「주택임대차보호법」제7조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_306,민법_제634조,CITES,「민법」제634조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_306,민법_제654조,CITES,제654조,1,CHAINED,False,rule_v2_guide
+GUIDE_310,주택임대차보호법_제21조,CITES,주임법 제21조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_310,주택임대차보호법_제21조_제3항,CITES,법 제21조 제3항,1,PARENT_LAW,False,rule_v2_guide
+GUIDE_310,주택임대차보호법_제25조_제1항,CITES,법 제25조 제1항,1,PARENT_LAW,False,rule_v2_guide
+GUIDE_311,주택임대차보호법_제21조,CITES,주임법 제21조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_311,주택임대차보호법_제22조,CITES,주임법 제22조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_311,주택임대차보호법_제23조,CITES,주임법 제23조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_311,주택임대차보호법_제24조,CITES,주임법 제24조,1,EXPLICIT_LAW,False,rule_v2_guide
+GUIDE_311,주택임대차보호법_제25조,CITES,제25조,1,CHAINED,False,rule_v2_guide
+GUIDE_313,민법_제629조,CITES,민법 제629조,1,EXPLICIT_LAW,False,rule_v2_guide
